@@ -2,15 +2,52 @@
   {
     "id": "e3c8b990-4521-4a2a-8a84-7c0f6b1f1c23",
     "name": "Standing Back Handspring",
-    "description": "A backward handspring from a standing position.",
+    "description": "A backward handspring from a standing position, commonly used as a transition skill.",
     "shapeTip": "Arms by ears, tight core, aggressive push from hands.",
-    "demoVideoURL": "https://example.com/bhs-demo.mp4",
-    "tutorialVideos": [
-      {
-        "title": "Learn a Standing Back Handspring",
-        "url": "https://example.com/bhs-tutorial-1.mp4"
-      }
-    ],
+    "media": {
+      "demo": "",
+      "demo3D": "",
+      "tutorials": [
+        {
+          "title": "",
+          "url": ""
+        }
+      ]
+    },
+    "category": "standing"
+  },
+  {
+    "id": "57d5df2f-c44c-4f4b-a5ad-9cb93f991c92",
+    "name": "Roundoff Back Handspring",
+    "description": "A tumbling combo that begins with a roundoff to generate momentum, immediately followed by a back handspring.",
+    "shapeTip": "Keep the roundoff tight and fast; snap down aggressively to drive power into the handspring.",
+    "media": {
+      "demo": "",
+      "demo3D": "",
+      "tutorials": [
+        {
+          "title": "",
+          "url": ""
+        }
+      ]
+    },
+    "category": "running"
+  },
+  {
+    "id": "a4c36660-75aa-4d9e-a7de-011c607d3b49",
+    "name": "Standing Back Tuck",
+    "description": "A standing backflip executed without using the hands.",
+    "shapeTip": "Explode upward, tuck tightly, and spot the landing quickly to maintain control.",
+    "media": {
+      "demo": "",
+      "demo3D": "",
+      "tutorials": [
+        {
+          "title": "",
+          "url": ""
+        }
+      ]
+    },
     "category": "standing"
   }
 ]
