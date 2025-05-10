@@ -1,0 +1,16 @@
+[
+  {
+    "id": "e3c8b990-4521-4a2a-8a84-7c0f6b1f1c23",
+    "name": "Standing Back Handspring",
+    "description": "A backward handspring from a standing position.",
+    "shapeTip": "Arms by ears, tight core, aggressive push from hands.",
+    "demoVideoURL": "https://example.com/bhs-demo.mp4",
+    "tutorialVideos": [
+      {
+        "title": "Learn a Standing Back Handspring",
+        "url": "https://example.com/bhs-tutorial-1.mp4"
+      }
+    ],
+    "category": "standing"
+  }
+]
