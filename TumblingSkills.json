@@ -1,11 +1,12 @@
 [
   {
-    "id": "e3c8b990-4521-4a2a-8a84-7c0f6b1f1c23",
-    "name": "Standing Back Handspring",
-    "description": "A backward handspring from a standing position, commonly used as a transition skill.",
-    "shapeTip": "Arms by ears, tight core, aggressive push from hands.",
+    "id": "0090f909-9ced-4415-a8e2-c725fffca2d2",
+    "name": "Forward Roll",
+    "description": "A basic tumbling skill involving a roll forward on the floor from a standing position.",
+    "shapeTip": "Tuck chin to chest, round back, and push with legs.",
+    "level": "Level 1",
     "media": {
-      "id": "e7a1c57d-7bfc-4c02-8493-7239c06d6e87",
+      "id": "563d2e3a-61f3-45d0-b713-fcdfc1958b0e",
       "demo": "",
       "demo3D": "",
       "tutorials": []
@@ -13,12 +14,55 @@
     "category": "standing"
   },
   {
-    "id": "57d5df2f-c44c-4f4b-a5ad-9cb93f991c92",
-    "name": "Roundoff Back Handspring",
-    "description": "A tumbling combo that begins with a roundoff to generate momentum, immediately followed by a back handspring.",
-    "shapeTip": "Keep the roundoff tight and fast; snap down aggressively to drive power into the handspring.",
+    "id": "ac14a8d5-faba-483e-8207-0331c2fb69fe",
+    "name": "Backward Roll",
+    "description": "A basic rolling motion backwards, using hands and momentum to complete the skill.",
+    "shapeTip": "Tuck tight, push through arms, roll over shoulders.",
+    "level": "Level 1",
     "media": {
-      "id": "d15c6d11-f6ec-4e42-bac5-073a7cc3ce52",
+      "id": "ebc777fd-032c-4f05-9092-6d5564e02075",
+      "demo": "",
+      "demo3D": "",
+      "tutorials": []
+    },
+    "category": "standing"
+  },
+  {
+    "id": "d870ce20-0bc3-4fa8-80e9-2462e2ab6d5d",
+    "name": "Handstand",
+    "description": "A vertical hold with the body inverted, balancing on the hands.",
+    "shapeTip": "Lock elbows, push tall through shoulders, engage core.",
+    "level": "Level 1",
+    "media": {
+      "id": "38cdba16-b79b-4477-a246-b07ca5c872c7",
+      "demo": "",
+      "demo3D": "",
+      "tutorials": []
+    },
+    "category": "standing"
+  },
+  {
+    "id": "0698f14a-10d5-468a-89a5-c5a807175bf5",
+    "name": "Cartwheel",
+    "description": "A sideways tumbling skill involving a rotation over the hands from one foot to the other.",
+    "shapeTip": "Lunge forward, reach long, kick legs straight over.",
+    "level": "Level 1",
+    "media": {
+      "id": "777972cc-3f4c-4c7b-b2d7-10a13dc2b85c",
+      "demo": "",
+      "demo3D": "",
+      "tutorials": []
+    },
+    "category": "standing"
+  },
+  {
+    "id": "e7bceb42-40d6-4f7b-a65e-25aa0068e4ef",
+    "name": "Roundoff",
+    "description": "A cartwheel-like skill with a snap-down landing and feet together, often used to generate power.",
+    "shapeTip": "Punch toes together, drive arms up on landing.",
+    "level": "Level 2",
+    "media": {
+      "id": "bc44bec3-9cdf-4c96-8f53-7a80b19823ab",
       "demo": "",
       "demo3D": "",
       "tutorials": []
@@ -26,16 +70,171 @@
     "category": "running"
   },
   {
-    "id": "a4c36660-75aa-4d9e-a7de-011c607d3b49",
-    "name": "Standing Back Tuck",
-    "description": "A standing backflip executed without using the hands.",
-    "shapeTip": "Explode upward, tuck tightly, and spot the landing quickly to maintain control.",
+    "id": "dfededd4-5e68-42a6-9094-51c488a06a1c",
+    "name": "Front Walkover",
+    "description": "A forward rotation through a handstand landing one foot at a time.",
+    "shapeTip": "Open shoulders, push off hands, land soft in split stance.",
+    "level": "Level 2",
     "media": {
-      "id": "f5106ac1-9d95-4bcf-b816-8aaf9487e0f1",
+      "id": "0f0135b2-d3ab-4df9-b726-9ce26e7ba06c",
       "demo": "",
       "demo3D": "",
       "tutorials": []
     },
     "category": "standing"
+  },
+  {
+    "id": "9bccd8e6-39ed-4ff5-b7b3-e77ec08c1162",
+    "name": "Back Walkover",
+    "description": "A backward rotation from standing, landing one foot at a time.",
+    "shapeTip": "Reach back with control, use shoulder flexibility.",
+    "level": "Level 2",
+    "media": {
+      "id": "777a9576-db0c-4631-919e-1fe6cb21451c",
+      "demo": "",
+      "demo3D": "",
+      "tutorials": []
+    },
+    "category": "standing"
+  },
+  {
+    "id": "4b322652-c126-41f4-98e5-6c57f2d101b7",
+    "name": "Standing Back Handspring",
+    "description": "A backward handspring from a standing position, used as a base skill for advanced tumbling.",
+    "shapeTip": "Arms by ears, sit low, jump back fast.",
+    "level": "Level 3",
+    "media": {
+      "id": "e7b6d268-5d1d-446f-9812-da9d3814b740",
+      "demo": "",
+      "demo3D": "",
+      "tutorials": []
+    },
+    "category": "standing"
+  },
+  {
+    "id": "6289f9a0-0c2f-4981-842f-03691a76d7ff",
+    "name": "Roundoff Back Handspring",
+    "description": "A roundoff leading into a back handspring to build momentum.",
+    "shapeTip": "Fast snap down in roundoff and aggressive jump back.",
+    "level": "Level 3",
+    "media": {
+      "id": "901e16de-a6ec-430f-b136-6948f63d5470",
+      "demo": "",
+      "demo3D": "",
+      "tutorials": []
+    },
+    "category": "running"
+  },
+  {
+    "id": "6d0fcbd5-9808-4de1-b944-75140dd33cc7",
+    "name": "Standing Back Tuck",
+    "description": "A standing backflip without using the hands.",
+    "shapeTip": "Jump straight up, tuck quickly, spot landing.",
+    "level": "Level 4",
+    "media": {
+      "id": "7c782c5a-6fda-4719-a881-abb96a4dbefb",
+      "demo": "",
+      "demo3D": "",
+      "tutorials": []
+    },
+    "category": "standing"
+  },
+  {
+    "id": "b0a2ff1d-f02f-4123-9c50-f47ea226a462",
+    "name": "Roundoff Back Handspring Back Tuck",
+    "description": "A tumbling pass ending in a back tuck after RO and BHS.",
+    "shapeTip": "Strong punch from BHS to initiate the tuck.",
+    "level": "Level 4",
+    "media": {
+      "id": "0ada23df-e63e-4ccb-930a-984820ec883f",
+      "demo": "",
+      "demo3D": "",
+      "tutorials": []
+    },
+    "category": "running"
+  },
+  {
+    "id": "f79ff596-a3bc-431c-95d2-30df6a79a6da",
+    "name": "Back Layout",
+    "description": "A layout flip in a straight, extended body position.",
+    "shapeTip": "Lift through shoulders, tight hollow position in air.",
+    "level": "Level 5",
+    "media": {
+      "id": "70147e1b-23a9-43f8-9f85-8e85aa35b7e1",
+      "demo": "",
+      "demo3D": "",
+      "tutorials": []
+    },
+    "category": "running"
+  },
+  {
+    "id": "9a602809-c646-4a41-b1b3-db09f203f6f9",
+    "name": "Roundoff Back Handspring Layout",
+    "description": "A pass that ends in a layout after momentum-building skills.",
+    "shapeTip": "Set high from BHS and stay stretched.",
+    "level": "Level 5",
+    "media": {
+      "id": "6d5b2a09-a195-4839-81b4-7151200e6b84",
+      "demo": "",
+      "demo3D": "",
+      "tutorials": []
+    },
+    "category": "running"
+  },
+  {
+    "id": "970cb40d-1469-4a26-a6ed-73dfd5b45bdb",
+    "name": "Full Twist",
+    "description": "A layout with a full 360\u00b0 twist, typically from a RO-BHS combo.",
+    "shapeTip": "Set high, initiate twist after full layout extension.",
+    "level": "Level 6",
+    "media": {
+      "id": "d4332e34-72a0-4697-bfe1-8388271caf03",
+      "demo": "",
+      "demo3D": "",
+      "tutorials": []
+    },
+    "category": "running"
+  },
+  {
+    "id": "896da4f0-8913-4daf-9378-2a18edf5b199",
+    "name": "Standing Full",
+    "description": "A standing layout full twist, without forward momentum.",
+    "shapeTip": "Explode vertically and twist after reaching extension.",
+    "level": "Level 6",
+    "media": {
+      "id": "87840fc1-d1f6-4f3c-9286-36645f7462eb",
+      "demo": "",
+      "demo3D": "",
+      "tutorials": []
+    },
+    "category": "standing"
+  },
+  {
+    "id": "d8a87179-bc13-4bee-b393-fd089c80ca25",
+    "name": "Double Full",
+    "description": "Two full twists in a straight body layout position.",
+    "shapeTip": "Set high and twist tight while maintaining control.",
+    "level": "Level 7",
+    "media": {
+      "id": "f7f9410c-2fc6-40db-927b-71e5b7c97dab",
+      "demo": "",
+      "demo3D": "",
+      "tutorials": []
+    },
+    "category": "running"
+  },
+  {
+    "id": "89d70dd8-0c3c-497e-bedb-a05d438f2588",
+    "name": "Roundoff Back Handspring Double Full",
+    "description": "A running pass into a BHS that ends in a double full twist.",
+    "shapeTip": "Snap the BHS, lift and rotate quickly in layout.",
+    "level": "Level 7",
+    "media": {
+      "id": "c93b6824-9e6e-4187-ad53-f6ee220996d9",
+      "demo": "",
+      "demo3D": "",
+      "tutorials": []
+    },
+    "category": "running"
   }
 ]
