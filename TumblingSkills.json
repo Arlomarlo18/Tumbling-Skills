@@ -10,9 +10,11 @@
       "demo": "",
       "demo3D": "",
       "tutorials": [
+        {
         "id": "1",
         "title": "Forward Roll Drill",
         "url": "https://www.youtube.com/shorts/4FUAQMcj7XM"
+        }
       ]
     },
     "category": "standing"
