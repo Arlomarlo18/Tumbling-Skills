@@ -2,8 +2,8 @@
   {
   "id": "0090f909-9ced-4415-a8e2-c725fffca2d2",
   "name": "Forward Roll",
-  "description": "A basic tumbling skill involving a roll forward on the floor from a standing position.",
-  "shapeTip": "Tuck chin to chest, round back, and push with legs.",
+  "description": "The forward roll is a foundational tumbling skill where the athlete initiates a controlled roll from a standing position, tucking into a rounded shape and moving head-over-heels along the spine. This skill develops body awareness, coordination, and introduces athletes to safe inversion techniques.",
+  "shapeTip": "Begin by standing with feet shoulder-width apart. Tuck the chin tightly to the chest to protect the neck. Round the back and bend the knees deeply, placing hands on the floor. Push evenly with the legs to roll over the shoulders—not the head—keeping a tight tuck and arms wrapped around the shins throughout the roll.",
   "level": "Level 1",
   "media": {
     "id": "563d2e3a-61f3-45d0-b713-fcdfc1958b0e",
@@ -11,28 +11,40 @@
     "demo3D": "",
     "tutorials": [
       {
-        "id": "1",
+        "id": "1FR",
         "title": "Forward Roll Drill",
         "url": "https://www.youtube.com/shorts/4FUAQMcj7XM"
-      }
+      },
+      {
+        "id": "2FR",
+        "title": "Stand up from your Forward Roll",
+        "url": "https://www.youtube.com/shorts/fhjx2BnfR-o"
+      },
+      
     ]
   },
   "category": "standing"
 },
   {
-    "id": "ac14a8d5-faba-483e-8207-0331c2fb69fe",
-    "name": "Backward Roll",
-    "description": "A basic rolling motion backwards, using hands and momentum to complete the skill.",
-    "shapeTip": "Tuck tight, push through arms, roll over shoulders.",
-    "level": "Level 1",
-    "media": {
-      "id": "ebc777fd-032c-4f05-9092-6d5564e02075",
-      "demo": "",
-      "demo3D": "",
-      "tutorials": []
-    },
-    "category": "standing"
+  "id": "ac14a8d5-faba-483e-8207-0331c2fb69fe",
+  "name": "Backward Roll",
+  "description": "The backward roll is a foundational inversion skill that teaches athletes how to safely roll backward over their shoulders while maintaining body control and awareness. This movement begins from a squat or standing position and uses momentum, a strong tuck, and a push from the hands to guide the body through a smooth, continuous roll.",
+  "shapeTip": "Start in a squat position with knees bent and chin tucked toward the chest. As you sit back, keep your arms bent and close to your ears, palms facing the ceiling. Tuck tightly, roll over the back of the shoulders (not the neck), and push firmly through the hands when they make contact with the floor to complete the motion and return to standing.",
+  "level": "Level 1",
+  "media": {
+    "id": "ebc777fd-032c-4f05-9092-6d5564e02075",
+    "demo": "",
+    "demo3D": "",
+    "tutorials": [
+      {
+        "id": "1BR",
+        "title": "How to do a backward roll",
+        "url": "https://www.youtube.com/watch?v=BaPfU4HHCkg"
+      },
+    ]
   },
+  "category": "standing"
+},
   {
     "id": "d870ce20-0bc3-4fa8-80e9-2462e2ab6d5d",
     "name": "Handstand",
