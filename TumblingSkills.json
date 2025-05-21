@@ -1,54 +1,54 @@
 [
   {
-  "id": "0090f909-9ced-4415-a8e2-c725fffca2d2",
-  "name": "Forward Roll",
-  "description": "The forward roll is a foundational tumbling skill where the athlete initiates a controlled roll from a standing position, tucking into a rounded shape and moving head-over-heels along the spine. This skill develops body awareness, coordination, and introduces athletes to safe inversion techniques.",
-  "shapeTip": "Begin by standing with feet shoulder-width apart. Tuck the chin tightly to the chest to protect the neck. Round the back and bend the knees deeply, placing hands on the floor. Push evenly with the legs to roll over the shoulders—not the head—keeping a tight tuck and arms wrapped around the shins throughout the roll.",
-  "level": "Level 1",
-  "media": {
-    "id": "563d2e3a-61f3-45d0-b713-fcdfc1958b0e",
-    "demo": "",
-    "demo3D": "",
-    "tutorials": [
-      {
-        "id": "1FR",
-        "title": "How to Do a Forward Roll in Gymnastics",
-        "url": "https://www.youtube.com/watch?v=KCb6cehtmcw"
-      },
-      {
-        "id": "2FR",
-        "title": "How to Forward Roll | Gymnastics Tutorial",
-        "url": "https://www.youtube.com/watch?v=TSsCIEs17D8"
-      }
-    ]
+    "id": "0090f909-9ced-4415-a8e2-c725fffca2d2",
+    "name": "Forward Roll",
+    "description": "The forward roll is a foundational tumbling skill where the athlete initiates a controlled roll from a standing position, tucking into a rounded shape and moving head-over-heels along the spine. This skill develops body awareness, coordination, and introduces athletes to safe inversion techniques.",
+    "shapeTip": "Begin by standing with feet shoulder-width apart. Tuck the chin tightly to the chest to protect the neck. Round the back and bend the knees deeply, placing hands on the floor. Push evenly with the legs to roll over the shoulders\u2014not the head\u2014keeping a tight tuck and arms wrapped around the shins throughout the roll.",
+    "level": "Level 1",
+    "media": {
+      "id": "563d2e3a-61f3-45d0-b713-fcdfc1958b0e",
+      "demo": "",
+      "demo3D": "",
+      "tutorials": [
+        {
+          "id": "1FR",
+          "title": "How to Do a Forward Roll in Gymnastics",
+          "url": "https://www.youtube.com/watch?v=KCb6cehtmcw"
+        },
+        {
+          "id": "2FR",
+          "title": "How to Forward Roll | Gymnastics Tutorial",
+          "url": "https://www.youtube.com/watch?v=TSsCIEs17D8"
+        }
+      ]
+    },
+    "category": "standing"
   },
-  "category": "standing"
-},
   {
-  "id": "ac14a8d5-faba-483e-8207-0331c2fb69fe",
-  "name": "Backward Roll",
-  "description": "The backward roll is a foundational inversion skill that teaches athletes how to safely roll backward over their shoulders while maintaining body control and awareness. This movement begins from a squat or standing position and uses momentum, a strong tuck, and a push from the hands to guide the body through a smooth, continuous roll.",
-  "shapeTip": "Start in a squat position with knees bent and chin tucked toward the chest. As you sit back, keep your arms bent and close to your ears, palms facing the ceiling. Tuck tightly, roll over the back of the shoulders (not the neck), and push firmly through the hands when they make contact with the floor to complete the motion and return to standing.",
-  "level": "Level 1",
-  "media": {
-    "id": "ebc777fd-032c-4f05-9092-6d5564e02075",
-    "demo": "",
-    "demo3D": "",
-    "tutorials": [
-      {
-        "id": "1BR",
-        "title": "How to do a backward roll",
-        "url": "https://www.youtube.com/watch?v=BaPfU4HHCkg"
-      }
-    ]
+    "id": "ac14a8d5-faba-483e-8207-0331c2fb69fe",
+    "name": "Backward Roll",
+    "description": "The backward roll is a foundational inversion skill that teaches athletes how to safely roll backward over their shoulders while maintaining body control and awareness. This movement begins from a squat or standing position and uses momentum, a strong tuck, and a push from the hands to guide the body through a smooth, continuous roll.",
+    "shapeTip": "Start in a squat position with knees bent and chin tucked toward the chest. As you sit back, keep your arms bent and close to your ears, palms facing the ceiling. Tuck tightly, roll over the back of the shoulders (not the neck), and push firmly through the hands when they make contact with the floor to complete the motion and return to standing.",
+    "level": "Level 1",
+    "media": {
+      "id": "ebc777fd-032c-4f05-9092-6d5564e02075",
+      "demo": "",
+      "demo3D": "",
+      "tutorials": [
+        {
+          "id": "1BR",
+          "title": "How to do a backward roll",
+          "url": "https://www.youtube.com/watch?v=BaPfU4HHCkg"
+        }
+      ]
+    },
+    "category": "standing"
   },
-  "category": "standing"
-},
   {
     "id": "d870ce20-0bc3-4fa8-80e9-2462e2ab6d5d",
     "name": "Handstand",
-    "description": "A vertical hold with the body inverted, balancing on the hands.",
-    "shapeTip": "Lock elbows, push tall through shoulders, engage core.",
+    "description": "The handstand is a fundamental inversion that challenges an athlete\u2019s balance, strength, and alignment. It involves supporting the entire body vertically on the hands with legs extended overhead. This skill builds core strength, shoulder stability, and spatial awareness, making it essential for advanced tumbling and stunting.",
+    "shapeTip": "Begin in a lunge, kick up with control. Keep arms locked, shoulders shrugged to ears, and core tight. Engage the legs together in a straight line, reaching toes toward the ceiling and spotting between the hands for balance.",
     "level": "Level 1",
     "media": {
       "id": "38cdba16-b79b-4477-a246-b07ca5c872c7",
@@ -61,8 +61,8 @@
   {
     "id": "0698f14a-10d5-468a-89a5-c5a807175bf5",
     "name": "Cartwheel",
-    "description": "A sideways tumbling skill involving a rotation over the hands from one foot to the other.",
-    "shapeTip": "Lunge forward, reach long, kick legs straight over.",
+    "description": "The cartwheel is a sideways traveling skill that teaches body rotation and spatial orientation. It introduces lateral movement and transitions between vertical and horizontal body shapes, laying the groundwork for more advanced acro skills.",
+    "shapeTip": "Start in a wide lunge with arms by ears. Reach toward the floor, placing hands one at a time while kicking legs over in a wide arc. Keep legs straight, toes pointed, and finish facing the opposite direction in a controlled lunge.",
     "level": "Level 1",
     "media": {
       "id": "777972cc-3f4c-4c7b-b2d7-10a13dc2b85c",
@@ -75,8 +75,8 @@
   {
     "id": "e7bceb42-40d6-4f7b-a65e-25aa0068e4ef",
     "name": "Roundoff",
-    "description": "A cartwheel-like skill with a snap-down landing and feet together, often used to generate power.",
-    "shapeTip": "Punch toes together, drive arms up on landing.",
+    "description": "The roundoff is a powerful tumbling transition that resembles a cartwheel but finishes with the feet together and a backward momentum. It\u2019s commonly used to generate speed and lift for connected skills like back handsprings and tucks.",
+    "shapeTip": "Start like a cartwheel but snap the legs together at the end to land with both feet, arms swinging overhead. Focus on a strong rebound and a quick transition from hands to feet.",
     "level": "Level 2",
     "media": {
       "id": "bc44bec3-9cdf-4c96-8f53-7a80b19823ab",
@@ -89,8 +89,8 @@
   {
     "id": "dfededd4-5e68-42a6-9094-51c488a06a1c",
     "name": "Front Walkover",
-    "description": "A forward rotation through a handstand landing one foot at a time.",
-    "shapeTip": "Open shoulders, push off hands, land soft in split stance.",
+    "description": "A graceful skill where the athlete passes through a handstand from a forward lunge, landing one foot at a time. It emphasizes flexibility, control, and a smooth flow of movement through inversion.",
+    "shapeTip": "Begin in a lunge and kick into a handstand, arching through the back. Push off the hands as one leg reaches the ground first, followed by the second leg, landing softly in a split stance.",
     "level": "Level 2",
     "media": {
       "id": "0f0135b2-d3ab-4df9-b726-9ce26e7ba06c",
@@ -103,8 +103,8 @@
   {
     "id": "9bccd8e6-39ed-4ff5-b7b3-e77ec08c1162",
     "name": "Back Walkover",
-    "description": "A backward rotation from standing, landing one foot at a time.",
-    "shapeTip": "Reach back with control, use shoulder flexibility.",
+    "description": "This skill starts from a standing position and involves a backward rotation through a handstand, landing one foot at a time. It builds confidence in backward movement, back flexibility, and shoulder mobility.",
+    "shapeTip": "Reach back into a bridge with arms straight and legs split. Push off the hands and lead with the dominant leg to stand up gracefully, keeping the movement fluid and controlled.",
     "level": "Level 2",
     "media": {
       "id": "777a9576-db0c-4631-919e-1fe6cb21451c",
@@ -117,8 +117,8 @@
   {
     "id": "4b322652-c126-41f4-98e5-6c57f2d101b7",
     "name": "Standing Back Handspring",
-    "description": "A backward handspring from a standing position, used as a base skill for advanced tumbling.",
-    "shapeTip": "Arms by ears, sit low, jump back fast.",
+    "description": "A fast, dynamic skill involving a backward jump into a handstand position followed by a quick snap down to the feet. It demands timing, power, and upper body strength.",
+    "shapeTip": "Sit back like you\u2019re sitting in a chair, arms tight by ears. Jump backward with speed and commit fully. Keep the body tight and snap the legs down fast to land on the feet.",
     "level": "Level 3",
     "media": {
       "id": "e7b6d268-5d1d-446f-9812-da9d3814b740",
@@ -131,8 +131,8 @@
   {
     "id": "6289f9a0-0c2f-4981-842f-03691a76d7ff",
     "name": "Roundoff Back Handspring",
-    "description": "A roundoff leading into a back handspring to build momentum.",
-    "shapeTip": "Fast snap down in roundoff and aggressive jump back.",
+    "description": "A connected pass combining the explosive power of a roundoff with the dynamic motion of a back handspring. It's a foundation for advanced tumbling series.",
+    "shapeTip": "Execute a strong roundoff with a deep snap-down and fast arm swing. Transition immediately into a back handspring, keeping the chest open and arms by the ears.",
     "level": "Level 3",
     "media": {
       "id": "901e16de-a6ec-430f-b136-6948f63d5470",
@@ -145,8 +145,8 @@
   {
     "id": "6d0fcbd5-9808-4de1-b944-75140dd33cc7",
     "name": "Standing Back Tuck",
-    "description": "A standing backflip without using the hands.",
-    "shapeTip": "Jump straight up, tuck quickly, spot landing.",
+    "description": "A standing backflip performed without the use of hands, requiring explosive power and precise timing. It develops air awareness and body control at higher speeds.",
+    "shapeTip": "Jump straight up, not back. Pull the knees to the chest quickly and keep hands wrapped around the shins. Spot the landing early and absorb the impact through the legs.",
     "level": "Level 4",
     "media": {
       "id": "7c782c5a-6fda-4719-a881-abb96a4dbefb",
@@ -159,8 +159,8 @@
   {
     "id": "b0a2ff1d-f02f-4123-9c50-f47ea226a462",
     "name": "Roundoff Back Handspring Back Tuck",
-    "description": "A tumbling pass ending in a back tuck after RO and BHS.",
-    "shapeTip": "Strong punch from BHS to initiate the tuck.",
+    "description": "A connected tumbling sequence finishing with a back tuck, combining speed and height from the preceding skills to complete the flip.",
+    "shapeTip": "Use momentum from the BHS, drive arms up into a tight tuck. Rotate quickly and prepare for a soft, centered landing.",
     "level": "Level 4",
     "media": {
       "id": "0ada23df-e63e-4ccb-930a-984820ec883f",
@@ -173,8 +173,8 @@
   {
     "id": "f79ff596-a3bc-431c-95d2-30df6a79a6da",
     "name": "Back Layout",
-    "description": "A layout flip in a straight, extended body position.",
-    "shapeTip": "Lift through shoulders, tight hollow position in air.",
+    "description": "A backflip performed in a straight, extended body position. It requires strength, tight body control, and height to complete the rotation with a hollow shape.",
+    "shapeTip": "Set tall through the shoulders and hips. Keep the body stretched with a tight core and hollow shape. Spot the landing while maintaining extension.",
     "level": "Level 5",
     "media": {
       "id": "70147e1b-23a9-43f8-9f85-8e85aa35b7e1",
@@ -187,8 +187,8 @@
   {
     "id": "9a602809-c646-4a41-b1b3-db09f203f6f9",
     "name": "Roundoff Back Handspring Layout",
-    "description": "A pass that ends in a layout after momentum-building skills.",
-    "shapeTip": "Set high from BHS and stay stretched.",
+    "description": "This combination pass uses a roundoff and back handspring to generate power for a layout flip, maintaining a straight body line throughout the rotation.",
+    "shapeTip": "Set vertically from the handspring, keeping arms tight. Hold a hollow position throughout the layout and maintain full body control until landing.",
     "level": "Level 5",
     "media": {
       "id": "6d5b2a09-a195-4839-81b4-7151200e6b84",
@@ -201,8 +201,8 @@
   {
     "id": "970cb40d-1469-4a26-a6ed-73dfd5b45bdb",
     "name": "Full Twist",
-    "description": "A layout with a full 360\u00b0 twist, typically from a RO-BHS combo.",
-    "shapeTip": "Set high, initiate twist after full layout extension.",
+    "description": "A layout with a full 360-degree twist, typically performed at high speed and precision. It requires advanced air awareness and control through rotation.",
+    "shapeTip": "Complete a strong layout set before initiating the twist. Use shoulder and hip drive to spin efficiently while staying extended.",
     "level": "Level 6",
     "media": {
       "id": "d4332e34-72a0-4697-bfe1-8388271caf03",
@@ -215,8 +215,8 @@
   {
     "id": "896da4f0-8913-4daf-9378-2a18edf5b199",
     "name": "Standing Full",
-    "description": "A standing layout full twist, without forward momentum.",
-    "shapeTip": "Explode vertically and twist after reaching extension.",
+    "description": "A standing layout with a full twist, performed without a roundoff or handspring. It showcases strength, control, and explosive vertical lift.",
+    "shapeTip": "Jump powerfully upward and reach full extension before beginning the twist. Keep the twist tight and spot the landing early.",
     "level": "Level 6",
     "media": {
       "id": "87840fc1-d1f6-4f3c-9286-36645f7462eb",
@@ -229,8 +229,8 @@
   {
     "id": "d8a87179-bc13-4bee-b393-fd089c80ca25",
     "name": "Double Full",
-    "description": "Two full twists in a straight body layout position.",
-    "shapeTip": "Set high and twist tight while maintaining control.",
+    "description": "A full layout flip with two complete twists, demanding maximum speed, lift, and precision. It's a high-difficulty skill used in elite tumbling.",
+    "shapeTip": "Set as if for a layout, but pull into the twist earlier. Keep arms tight and spin fast while holding a stretched body position throughout.",
     "level": "Level 7",
     "media": {
       "id": "f7f9410c-2fc6-40db-927b-71e5b7c97dab",
@@ -243,8 +243,8 @@
   {
     "id": "89d70dd8-0c3c-497e-bedb-a05d438f2588",
     "name": "Roundoff Back Handspring Double Full",
-    "description": "A running pass into a BHS that ends in a double full twist.",
-    "shapeTip": "Snap the BHS, lift and rotate quickly in layout.",
+    "description": "A high-level tumbling pass that links a roundoff and back handspring into a double full twist, maximizing momentum and airtime.",
+    "shapeTip": "Snap the BHS tight, set tall, and immediately initiate two fast twists. Stay hollow and controlled through the spin, landing cleanly.",
     "level": "Level 7",
     "media": {
       "id": "c93b6824-9e6e-4187-ad53-f6ee220996d9",
