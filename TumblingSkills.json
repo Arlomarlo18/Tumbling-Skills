@@ -39,6 +39,11 @@
           "id": "1BR",
           "title": "How to do a backward roll",
           "url": "https://www.youtube.com/watch?v=BaPfU4HHCkg"
+        },
+	{
+          "id": "2BR",
+          "title": "Head Over Heels Gymnastics Tutorials, Learn how to do a Backwards Roll",
+          "url": "https://www.youtube.com/watch?v=U_scqEjjZbM"
         }
       ]
     },
@@ -54,7 +59,18 @@
       "id": "38cdba16-b79b-4477-a246-b07ca5c872c7",
       "demo": "",
       "demo3D": "",
-      "tutorials": []
+      "tutorials": [
+	{
+          "id": "1HS",
+          "title": "Tumbling Drills: Handstands",
+          "url": "https://www.youtube.com/watch?v=oCR4R_kHBfQ"
+        },
+	{
+          "id": "2HS",
+          "title": "HANDSTAND SHAPING // Tumbling Drills",
+          "url": "https://www.youtube.com/watch?v=hwJR7LGFEns"
+        }
+	]
     },
     "category": "standing"
   },
@@ -68,7 +84,18 @@
       "id": "777972cc-3f4c-4c7b-b2d7-10a13dc2b85c",
       "demo": "",
       "demo3D": "",
-      "tutorials": []
+      "tutorials": [
+        {
+          "id": "1CW",
+          "title": "How to teach a cartwheel to a young child",
+          "url": "https://www.youtube.com/watch?v=JAIuTezA_E8"
+        },
+	{
+          "id": "2CW",
+          "title": "How to Improve Your Cartwheels",
+          "url": "https://www.youtube.com/watch?v=ZgLmcCrKzI4"
+        }
+      ]
     },
     "category": "standing"
   },
@@ -82,7 +109,18 @@
       "id": "bc44bec3-9cdf-4c96-8f53-7a80b19823ab",
       "demo": "",
       "demo3D": "",
-      "tutorials": []
+      "tutorials": [
+        {
+          "id": "1RO",
+          "title": "11 Crazy Effective Round Off Drills To Improve Tumbling (Cheer & Gymnastics)",
+          "url": "https://www.youtube.com/watch?v=EzoOHgAO6mk"
+        },
+	{
+          "id": "2RO",
+          "title": "How to do a Gymnastics Roundoff",
+          "url": "https://www.youtube.com/watch?v=26KZw_tOu8k"
+        }
+      ]
     },
     "category": "running"
   },
@@ -138,7 +176,18 @@
       "id": "901e16de-a6ec-430f-b136-6948f63d5470",
       "demo": "",
       "demo3D": "",
-      "tutorials": []
+      "tutorials": [
+        {
+          "id": "1ROBHS",
+          "title": "Roundoff Progression and Drills - Gymnastics Tumbling Tutorial featuring Coach Mary Lee Tracy",
+          "url": "https://www.youtube.com/watch?v=znAgGkB0Fig"
+        },
+	{
+          "id": "2ROBHS",
+          "title": "ROUND OFF BACK HANDSPRINGS // Tumbling Drills",
+          "url": "https://www.youtube.com/watch?v=ZDQUFIL_A-E"
+        }
+      ]
     },
     "category": "running"
   },
