@@ -184,7 +184,18 @@
       "id": "e7b6d268-5d1d-446f-9812-da9d3814b740",
       "demo": "",
       "demo3D": "",
-      "tutorials": []
+      "tutorials": [
+        {
+          "id": "1SBHS",
+          "title": "5 DRILLS TO FIX YOUR BACK HANDSPRING!",
+          "url": "https://www.youtube.com/watch?v=HJLaEBttj5k&list=PLqhbG_X2wmV-NaFKWdIydeIATyhV-kFzK"
+        },
+	{
+          "id": "2SBHS",
+          "title": "Back Handsprings Tips and Drills featuring Coach Mary Lee Tracy",
+          "url": "https://www.youtube.com/watch?v=EqmeReNzpFo"
+        }
+      ]
     },
     "category": "standing"
   },
@@ -208,6 +219,11 @@
           "id": "2ROBHS",
           "title": "ROUND OFF BACK HANDSPRINGS // Tumbling Drills",
           "url": "https://www.youtube.com/watch?v=ZDQUFIL_A-E"
+        },
+	{
+          "id": "2ROBHS",
+          "title": "Tips And Drills To Help You With Your Round Off Back handsprings!",
+          "url": "https://www.youtube.com/watch?v=nrdIAfFObGg"
         }
       ]
     },
