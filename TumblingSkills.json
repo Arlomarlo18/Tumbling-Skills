@@ -28,7 +28,7 @@
     "id": "ac14a8d5-faba-483e-8207-0331c2fb69fe",
     "name": "Backward Roll",
     "description": "The backward roll is a foundational inversion skill that teaches athletes how to safely roll backward over their shoulders while maintaining body control and awareness. This movement begins from a squat or standing position and uses momentum, a strong tuck, and a push from the hands to guide the body through a smooth, continuous roll.",
-    "shapeTip": "Start in a squat position with knees bent and chin tucked toward the chest. As you sit back, keep your arms bent and close to your ears, palms facing the ceiling. Tuck tightly, roll over the back of the shoulders (not the neck), and push firmly through the hands when they make contact with the floor to complete the motion and return to standing.",
+    "shapeTip": "Start in a squat position with knees bent and chin tucked toward the chest. As you sit back, keep your arms bent and close to your ears, palms    facing the ceiling. Tuck tightly, roll over the back of the shoulders (not the neck), and push firmly through the hands when they make contact with the floor to complete the motion and return to standing.",
     "level": "Level 1",
     "media": {
       "id": "ebc777fd-032c-4f05-9092-6d5564e02075",
@@ -60,7 +60,7 @@
       "demo": "",
       "demo3D": "",
       "tutorials": [
-	{
+        {
           "id": "1HS",
           "title": "Tumbling Drills: Handstands",
           "url": "https://www.youtube.com/watch?v=oCR4R_kHBfQ"
@@ -70,7 +70,7 @@
           "title": "HANDSTAND SHAPING // Tumbling Drills",
           "url": "https://www.youtube.com/watch?v=hwJR7LGFEns"
         }
-	]
+      ]
     },
     "category": "standing"
   },
@@ -134,7 +134,18 @@
       "id": "0f0135b2-d3ab-4df9-b726-9ce26e7ba06c",
       "demo": "",
       "demo3D": "",
-      "tutorials": []
+      "tutorials": [
+        {
+          "id": "1FW",
+          "title": "11 Crazy Effective Round Off Drills To Improve Tumbling (Cheer & Gymnastics)",
+          "url": "https://www.youtube.com/watch?v=EzoOHgAO6mk"
+        },
+	{
+          "id": "2FW",
+          "title": "How to do a Gymnastics Roundoff",
+          "url": "https://www.youtube.com/watch?v=26KZw_tOu8k"
+        }
+      ]
     },
     "category": "standing"
   },
@@ -148,7 +159,18 @@
       "id": "777a9576-db0c-4631-919e-1fe6cb21451c",
       "demo": "",
       "demo3D": "",
-      "tutorials": []
+      "tutorials": [
+        {
+          "id": "1BW",
+          "title": "Back bend and back walkover drills",
+          "url": "https://www.youtube.com/shorts/-1pZFGMOVeU"
+        },
+	{
+          "id": "2BW",
+          "title": "Back Walkover Drills",
+          "url": "https://www.youtube.com/shorts/rytlrf3c1A8
+        }
+      ]
     },
     "category": "standing"
   },
