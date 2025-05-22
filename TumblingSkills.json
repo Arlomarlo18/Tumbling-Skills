@@ -224,7 +224,12 @@
           "id": "3ROBHS",
           "title": "Tips And Drills To Help You With Your Round Off Back handsprings!",
           "url": "https://www.youtube.com/watch?v=nrdIAfFObGg"
-        }
+        },
+	{
+          "id": "4ROBHS",
+          "title": "How To Round Off Back Handspring | Tumbling Tutorial",
+          "url": "https://www.youtube.com/watch?v=eaX4Ti4mfKA"
+        },
       ]
     },
     "category": "running"
@@ -254,6 +259,11 @@
           "id": "3ST",
           "title": "BACK TUCK MISTAKES THAT PREVENT YOU FROM LANDING | 6 tips improve height and form in a standing bt",
           "url": "https://www.youtube.com/watch?v=v4AMRnKjCeU"
+        },
+	{
+          "id": "4ST",
+          "title": "How To Back Tuck | Tumbling Tutorial",
+          "url": "https://www.youtube.com/watch?v=T2Zwh662jGc&list=PLo4FopmsXov6hxC4sdiG6krzskkG7hQXQ"
         }
       ]
     },
@@ -269,21 +279,23 @@
       "id": "0ada23df-e63e-4ccb-930a-984820ec883f",
       "demo": "",
       "demo3D": "",
-      "tutorials": []
-    },
-    "category": "running"
-  },
-  {
-    "id": "f79ff596-a3bc-431c-95d2-30df6a79a6da",
-    "name": "Back Layout",
-    "description": "A backflip performed in a straight, extended body position. It requires strength, tight body control, and height to complete the rotation with a hollow shape.",
-    "shapeTip": "Set tall through the shoulders and hips. Keep the body stretched with a tight core and hollow shape. Spot the landing while maintaining extension.",
-    "level": "Level 5",
-    "media": {
-      "id": "70147e1b-23a9-43f8-9f85-8e85aa35b7e1",
-      "demo": "",
-      "demo3D": "",
-      "tutorials": []
+      "tutorials": [
+        {
+          "id": "1ROBHSBT",
+          "title": "Round Off Back-handspring Tuck drills",
+          "url": "https://www.youtube.com/watch?v=_z8MnT1ML4k"
+        },
+	{
+          "id": "2ROBHSBT",
+          "title": "Back Tuck Drill",
+          "url": "https://www.youtube.com/shorts/mbB7LgHkKek"
+        },
+	{
+          "id": "3ROBHSBT",
+          "title": "The Recipes: Running Tuck Breakdown",
+          "url": "https://www.youtube.com/watch?v=H2j4egs5xls"
+        }
+      ]
     },
     "category": "running"
   },
@@ -297,27 +309,69 @@
       "id": "6d5b2a09-a195-4839-81b4-7151200e6b84",
       "demo": "",
       "demo3D": "",
-      "tutorials": []
+      "tutorials": [
+        {
+          "id": "1ROBHSL",
+          "title": "The Recipes: Running Layout Breakdown",
+          "url": "https://www.youtube.com/watch?v=LyIe6_PqmK8"
+        },
+	{
+          "id": "2ROBHSL",
+          "title": "Layout drills",
+          "url": "https://www.youtube.com/watch?v=3v0rgdehz3k"
+        },
+	{
+          "id": "3ROBHSL",
+          "title": "If you lack technique you lose the freedom to create. Layout Drills.",
+          "url": "https://www.youtube.com/watch?v=H2j4egs5xls"
+        },
+	{
+          "id": "4ROBHSL",
+          "title": "Fun Layout Drill for Tumblers",
+          "url": "https://www.youtube.com/shorts/Ph5mk8uh7TA"
+        }
+      ]
     },
     "category": "running"
   },
   {
     "id": "970cb40d-1469-4a26-a6ed-73dfd5b45bdb",
-    "name": "Full Twist",
-    "description": "A layout with a full 360-degree twist, typically performed at high speed and precision. It requires advanced air awareness and control through rotation.",
-    "shapeTip": "Complete a strong layout set before initiating the twist. Use shoulder and hip drive to spin efficiently while staying extended.",
+    "name": "Roundoff Back Handspring Full",
+    "description": "This tumbling pass begins with a roundoff and back handspring to build momentum, finishing with a layout that includes a full 360-degree twist. It requires strong technique and spatial awareness to execute safely and cleanly.",
+    "shapeTip": "Push through the roundoff and snap down in the back handspring to generate power. Set tall from the handspring, initiate the twist using shoulder and hip drive, and maintain a tight, extended body line through the full rotation.",
     "level": "Level 6",
     "media": {
       "id": "d4332e34-72a0-4697-bfe1-8388271caf03",
       "demo": "",
       "demo3D": "",
-      "tutorials": []
+      "tutorials": [
+        {
+          "id": "1ROBHSF",
+          "title": "BEGINNING TWISTING // Tumbling Drills",
+          "url": "https://www.youtube.com/watch?v=ZYXmjTPRZxA"
+        },
+	{
+          "id": "2ROBHSF",
+          "title": "The Ingredients: Full Twist Drills",
+          "url": "https://www.youtube.com/shorts/Mix7gbw8Vjs"
+        },
+	{
+          "id": "3ROBHSF",
+          "title": "3 Progressions For The Back Full Twisting Layout | Tumbling Tutorial",
+          "url": "https://www.youtube.com/watch?v=Uef_XHZO8pE"
+        },
+	{
+          "id": "4ROBHSF",
+          "title": "Full Twisting Layout Drill",
+          "url": "https://www.youtube.com/shorts/dLOGLglLRio"
+        }
+      ]
     },
     "category": "running"
   },
   {
     "id": "896da4f0-8913-4daf-9378-2a18edf5b199",
-    "name": "Standing Full",
+    "name": "Standing Back Full",
     "description": "A standing layout with a full twist, performed without a roundoff or handspring. It showcases strength, control, and explosive vertical lift.",
     "shapeTip": "Jump powerfully upward and reach full extension before beginning the twist. Keep the twist tight and spot the landing early.",
     "level": "Level 6",
@@ -325,23 +379,25 @@
       "id": "87840fc1-d1f6-4f3c-9286-36645f7462eb",
       "demo": "",
       "demo3D": "",
-      "tutorials": []
+      "tutorials": [
+        {
+          "id": "1SBF",
+          "title": "Standing Fulls Drills.",
+          "url": "https://www.youtube.com/shorts/Y6i5wvR2nQs"
+        },
+	{
+          "id": "2SBF",
+          "title": "Drills for the standing full",
+          "url": "https://www.youtube.com/shorts/V8ny8v1UXzg"
+        },
+	{
+          "id": "3SBF",
+          "title": "STANDING FULL DRILLS!",
+          "url": "hhttps://www.youtube.com/shorts/aQfTMqlvbbo"
+        }
+      ]
     },
     "category": "standing"
-  },
-  {
-    "id": "d8a87179-bc13-4bee-b393-fd089c80ca25",
-    "name": "Double Full",
-    "description": "A full layout flip with two complete twists, demanding maximum speed, lift, and precision. It's a high-difficulty skill used in elite tumbling.",
-    "shapeTip": "Set as if for a layout, but pull into the twist earlier. Keep arms tight and spin fast while holding a stretched body position throughout.",
-    "level": "Level 7",
-    "media": {
-      "id": "f7f9410c-2fc6-40db-927b-71e5b7c97dab",
-      "demo": "",
-      "demo3D": "",
-      "tutorials": []
-    },
-    "category": "running"
   },
   {
     "id": "89d70dd8-0c3c-497e-bedb-a05d438f2588",
@@ -353,7 +409,23 @@
       "id": "c93b6824-9e6e-4187-ad53-f6ee220996d9",
       "demo": "",
       "demo3D": "",
-      "tutorials": []
+      "tutorials": [
+        {
+          "id": "1SBDF",
+          "title": "DOUBLE FULL Twisting BACK Layouts....The How to",
+          "url": "https://www.youtube.com/watch?v=XVbq4wZ85ww&t=1s"
+        },
+	{
+          "id": "2SBDF",
+          "title": "How to Do a Double Full Twist | Gymnastics Lessons",
+          "url": "https://www.youtube.com/watch?v=hpsgwGvBdW8"
+        },
+	{
+          "id": "3SBDF",
+          "title": "STANDING FULL DRILLS!",
+          "url": "hhttps://www.youtube.com/shorts/aQfTMqlvbbo"
+        }
+      ]
     },
     "category": "running"
   }
