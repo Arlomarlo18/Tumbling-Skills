@@ -239,7 +239,22 @@
       "id": "7c782c5a-6fda-4719-a881-abb96a4dbefb",
       "demo": "",
       "demo3D": "",
-      "tutorials": []
+      "tutorials": [
+        {
+          "id": "1ST",
+          "title": "Back tuck drills to help you with rotation!",
+          "url": "https://www.youtube.com/shorts/aY8PQvwdpZk"
+        },
+	{
+          "id": "2ST",
+          "title": "Standing Back Tuck Tutorial",
+          "url": "https://www.youtube.com/watch?v=xx6J8J8AgL0"
+        },
+	{
+          "id": "3ST",
+          "title": "BACK TUCK MISTAKES THAT PREVENT YOU FROM LANDING | 6 tips improve height and form in a standing bt",
+          "url": "https://www.youtube.com/watch?v=v4AMRnKjCeU"
+        }
     },
     "category": "standing"
   },
