@@ -11,33 +11,33 @@
 		    "movements": [
 		        {
 		            "id": "frmv1",
-		            "name": "Neck Tuck Prep",
+		            "name": "Chin Tucks",
 		            "duration": 30,
-		            "instructions": "Stand tall and practice tucking the chin tightly to the chest while rounding the shoulders forward."
+		            "instructions": "Lay on your back and practice tucking your chin tightly to your chest. This helps protect your neck when rolling."
 		        },
 		        {
 		            "id": "frmv2",
-		            "name": "Rock and Roll",
+		            "name": "Tight Ball Rocks",
 		            "duration": 45,
-		            "instructions": "Sit in a tuck shape and gently rock back and forth along the spine, keeping the chin tucked and knees hugged."
+		            "instructions": "Sit in a tiny ball—knees hugged, chin tucked—and gently rock back and forth. Stay as round and tight as you can."
 		        },
 		        {
 		            "id": "frmv3",
-		            "name": "Wall Rolls",
+		            "name": "Shoulder Pushes on Wall",
 		            "duration": 45,
-		            "instructions": "Use a padded incline or wall mat to roll down safely, reinforcing head and shoulder placement."
+		            "instructions": "Squat down in front of a wall. Tuck your chin and push the back of your shoulders into the wall like you're about to roll. Keep your head off the wall."
 		        },
 		        {
 		            "id": "frmv4",
-		            "name": "Forward Roll Attempts",
+		            "name": "Tuck to Stand Ups",
 		            "duration": 60,
-		            "instructions": "From standing or squat, perform a controlled forward roll focusing on tight shape and smooth motion."
+		            "instructions": "Start in a tight tuck on the ground. Roll back just a little, then use your legs to stand up without using your hands if you can."
 		        },
 		        {
 		            "id": "frmv5",
-		            "name": "Rest",
+		            "name": "Breathe and Shake Out",
 		            "duration": 30,
-		            "instructions": "Relax and stretch the neck and back. Prepare for another round."
+		            "instructions": "Take a short break. Shake out your legs, stretch your neck, and get ready for the next round."
 		        }
 		    ]
 		},
@@ -72,33 +72,33 @@
 		    "movements": [
 		        {
 		            "id": "brmv1",
-		            "name": "Tuck Rock Backs",
+		            "name": "Tight Rock Backs",
 		            "duration": 45,
-		            "instructions": "Sit in a tight tuck and rock back onto your shoulders, keeping your chin tucked and hands by your ears."
+		            "instructions": "Sit in a ball with your knees hugged and chin tucked. Rock back and forth slowly, keeping your shape tight the whole time."
 		        },
 		        {
 		            "id": "brmv2",
-		            "name": "Bridge Push Drills",
-		            "duration": 30,
-		            "instructions": "Practice pushing through your hands from a bridge position to simulate the arm action in a backward roll."
+		            "name": "Wall Push Backs",
+		            "duration": 45,
+		            "instructions": "Start in a squat with your back near a wall. Roll back and gently push your feet into the wall while keeping your hands by your ears like you're ready to push the floor."
 		        },
 		        {
 		            "id": "brmv3",
-		            "name": "Incline Backward Rolls",
-		            "duration": 45,
-		            "instructions": "Perform backward rolls down a wedge mat or incline to reinforce motion and confidence."
+		            "name": "Bridge Arm Presses",
+		            "duration": 30,
+		            "instructions": "Lay on your back and push up into a bridge. Press through your arms to build the push strength used in the roll."
 		        },
 		        {
 		            "id": "brmv4",
-		            "name": "Backward Roll Attempts",
+		            "name": "Shoulder Rolls on Mat",
 		            "duration": 60,
-		            "instructions": "Start in a squat and perform full backward rolls, focusing on a tight tuck and pushing through the arms to finish standing."
+		            "instructions": "Start in a squat and roll back onto your shoulders—not your neck—then rock back up. Keep your chin tucked the entire time."
 		        },
 		        {
 		            "id": "brmv5",
-		            "name": "Rest",
+		            "name": "Shake and Breathe",
 		            "duration": 30,
-		            "instructions": "Breathe deeply and stretch your shoulders and neck to prepare for the next set."
+		            "instructions": "Stretch your neck and shoulders. Shake out your arms. Take a few deep breaths before the next round."
 		        }
 		    ]
 		},
@@ -133,33 +133,33 @@
 		    "movements": [
 		        {
 		            "id": "hsmv1",
-		            "name": "Wall Walks",
+		            "name": "Wall Walk-Ups",
 		            "duration": 45,
-		            "instructions": "Start in a push-up position and walk your feet up a wall while walking hands closer to the wall. Maintain a tight core and straight body line."
+		            "instructions": "Start in a push-up position with feet near the wall. Slowly walk your feet up the wall and your hands closer to the wall until your body is nearly vertical. Hold it with your core tight and legs straight."
 		        },
 		        {
 		            "id": "hsmv2",
-		            "name": "Shoulder Shrugs",
-		            "duration": 30,
-		            "instructions": "In a handstand against the wall, shrug shoulders up and down to build shoulder stability and awareness."
+		            "name": "Shoulder Touches on Wall",
+		            "duration": 45,
+		            "instructions": "In a wall handstand, gently shift side to side and tap one shoulder at a time. This builds balance and shoulder strength."
 		        },
 		        {
 		            "id": "hsmv3",
-		            "name": "Body Tension Holds",
-		            "duration": 45,
-		            "instructions": "Lay on your back in a hollow hold or on your stomach in a superman to reinforce core engagement for handstands."
+		            "name": "Hollow Body Rocks",
+		            "duration": 30,
+		            "instructions": "Lay on your back in a hollow shape (arms by ears, feet off floor) and rock back and forth without breaking your shape. This builds the core strength used in handstands."
 		        },
 		        {
 		            "id": "hsmv4",
-		            "name": "Wall Handstand Hold",
+		            "name": "Wall Hold or L-Handstand",
 		            "duration": 60,
-		            "instructions": "Kick into a handstand against a wall and hold for time, focusing on tight legs, pointed toes, and straight alignment."
+		            "instructions": "Kick or step into a handstand against the wall and hold for time. If not ready, do an L-handstand with feet on a block or wall and hips over shoulders."
 		        },
 		        {
 		            "id": "hsmv5",
-		            "name": "Rest",
+		            "name": "Breathe and Reset",
 		            "duration": 30,
-		            "instructions": "Relax and shake out your arms and shoulders. Breathe deeply and prepare for the next set."
+		            "instructions": "Come down carefully, shake out your wrists, and stretch your arms and shoulders. Get ready for another round."
 		        }
 		    ]
 		},
@@ -194,33 +194,33 @@
 		    "movements": [
 		        {
 		            "id": "cwmv1",
-		            "name": "Lunge to T",
+		            "name": "Lunge and Hold",
 		            "duration": 45,
-		            "instructions": "Start in a deep lunge, then shift forward into a T-position with arms by ears and back leg lifted to prepare body alignment."
+		            "instructions": "Step into a deep lunge with arms by your ears. Hold it still. Make sure your front knee is bent, back leg is straight, and your belly button is facing forward."
 		        },
 		        {
 		            "id": "cwmv2",
-		            "name": "Side Hand Placements",
-		            "duration": 30,
-		            "instructions": "Practice reaching sideways to place hands one at a time on the floor, mimicking the start of a cartwheel."
+		            "name": "T-Shapes",
+		            "duration": 45,
+		            "instructions": "From your lunge, shift forward into a T-shape—arms by ears, back leg lifted straight behind you. Hold this position to build balance and shape control."
 		        },
 		        {
 		            "id": "cwmv3",
-		            "name": "Leg Kicks Over Block",
-		            "duration": 45,
-		            "instructions": "Kick one leg at a time over a soft block or mat to simulate the motion of a cartwheel with correct shape and control."
+		            "name": "Side Hand Reaches",
+		            "duration": 30,
+		            "instructions": "Standing tall, practice reaching your hands down to the side one at a time, like you're placing them for a cartwheel. Keep your arms strong and straight."
 		        },
 		        {
 		            "id": "cwmv4",
-		            "name": "Cartwheel Attempts",
-		            "duration": 60,
-		            "instructions": "Perform full cartwheels from a lunge, focusing on straight legs, wide straddle, and finishing in the opposite lunge."
+		            "name": "Leg Kicks Over a Block",
+		            "duration": 45,
+		            "instructions": "Kick one leg at a time over a soft block or mat while placing your hands on the ground. Focus on keeping legs straight and body tight."
 		        },
 		        {
 		            "id": "cwmv5",
-		            "name": "Rest",
+		            "name": "Rest and Reset",
 		            "duration": 30,
-		            "instructions": "Shake out arms and legs. Breathe and recover before continuing."
+		            "instructions": "Shake out your arms and legs. Take a few deep breaths. Get ready to go again!"
 		        }
 		    ]
 		},
@@ -255,33 +255,33 @@
 		    "movements": [
 		        {
 		            "id": "romv1",
-		            "name": "Cartwheel Snap-Downs",
+		            "name": "Lunge to T-Shape Hold",
 		            "duration": 45,
-		            "instructions": "Perform cartwheels focusing on snapping the legs together at the end to land feet simultaneously and generate power."
+		            "instructions": "Start in a strong lunge with arms by your ears. Shift into a T-shape by lifting your back leg behind you while keeping your arms and body in a straight line. Hold steady and tight."
 		        },
 		        {
 		            "id": "romv2",
-		            "name": "Handstand Snap Downs",
+		            "name": "Wall Handstand Snap-Downs",
 		            "duration": 45,
-		            "instructions": "Kick up into a handstand and practice snapping the feet down quickly together to build rebound mechanics."
+		            "instructions": "Kick up into a handstand against the wall. Practice snapping your feet down together to the floor with control and tight form."
 		        },
 		        {
 		            "id": "romv3",
-		            "name": "Panel Mat Roundoffs",
-		            "duration": 60,
-		            "instructions": "Use a panel mat or line to emphasize straight hand and foot placement and correct body angle during roundoff."
+		            "name": "Hollow Body Holds",
+		            "duration": 30,
+		            "instructions": "Lay on your back and hold a hollow body shape: arms by ears, shoulders and legs off the ground. Keep your belly tight and back flat."
 		        },
 		        {
 		            "id": "romv4",
-		            "name": "Roundoff Attempts",
-		            "duration": 60,
-		            "instructions": "Perform full roundoffs with focus on straight arms, powerful leg snap, and finishing in a controlled rebound."
+		            "name": "Rebound Jumps",
+		            "duration": 45,
+		            "instructions": "Stand tall and jump with tight legs and arms by your ears. Focus on quick, tight bounces off the floor without sinking into your knees."
 		        },
 		        {
 		            "id": "romv5",
-		            "name": "Rest",
+		            "name": "Shake Out and Reset",
 		            "duration": 30,
-		            "instructions": "Shake out arms and legs. Focus on breathing and reset before continuing."
+		            "instructions": "Take a short break. Shake out your arms and legs. Breathe and get ready for the next round."
 		        }
 		    ]
 		},
@@ -316,33 +316,33 @@
 		    "movements": [
 		        {
 		            "id": "fwmv1",
-		            "name": "Bridge Kickovers",
+		            "name": "Lunge to T Hold",
 		            "duration": 45,
-		            "instructions": "Start in a bridge and practice kicking over one leg at a time to build flexibility and leg drive."
+		            "instructions": "Start in a deep lunge with arms by your ears. Slowly shift into a T position—back leg lifted, body tight. This builds balance and core control for entry."
 		        },
 		        {
 		            "id": "fwmv2",
-		            "name": "Lunge to Handstand Drill",
+		            "name": "Bridge Position Holds",
 		            "duration": 45,
-		            "instructions": "From a lunge, kick into a handstand position with control and alignment, then return to lunge."
+		            "instructions": "Lay on your back, push into a bridge, and hold. Focus on straight arms and pressing your chest over your hands to stretch shoulders."
 		        },
 		        {
 		            "id": "fwmv3",
-		            "name": "Wall Leg Isolation",
+		            "name": "Leg Lifts from Bridge",
 		            "duration": 30,
-		            "instructions": "Use a wall to isolate leg lift, focusing on split position and control during the descent."
+		            "instructions": "In a bridge, lift one leg at a time and hold it up. Keep the leg straight and hips high to build strength and control for the kick over."
 		        },
 		        {
 		            "id": "fwmv4",
-		            "name": "Front Walkover Attempts",
-		            "duration": 60,
-		            "instructions": "Perform front walkovers with emphasis on a smooth kick, strong arms, and soft, split-legged landings."
+		            "name": "Wall Splits or Elevated Leg Holds",
+		            "duration": 45,
+		            "instructions": "Use a wall or block to elevate one leg while holding a split position. Focus on stretching and controlling both legs evenly."
 		        },
 		        {
 		            "id": "fwmv5",
-		            "name": "Rest",
+		            "name": "Rest and Reset",
 		            "duration": 30,
-		            "instructions": "Stretch wrists, shoulders, and back. Breathe and prepare for the next round."
+		            "instructions": "Breathe deeply, stretch your wrists and back, and shake everything out. Get ready for another round."
 		        }
 		    ]
 		},
@@ -382,33 +382,33 @@
 		    "movements": [
 		        {
 		            "id": "bwmv1",
-		            "name": "Bridge Holds",
+		            "name": "Bridge Shape Holds",
 		            "duration": 45,
-		            "instructions": "Hold a strong bridge with straight arms and legs. Focus on shoulder mobility and pushing chest over hands."
+		            "instructions": "Lay on your back and push into a bridge. Hold it with straight arms and feet flat. Focus on stretching your shoulders and keeping your arms strong."
 		        },
 		        {
 		            "id": "bwmv2",
-		            "name": "Leg Lifts from Bridge",
+		            "name": "One-Leg Bridge Lifts",
 		            "duration": 45,
-		            "instructions": "From a bridge, lift one leg at a time to build strength and control needed for walkover transitions."
+		            "instructions": "Hold a bridge, then lift one leg straight into the air. Hold it steady while keeping your hips high and arms locked."
 		        },
 		        {
 		            "id": "bwmv3",
-		            "name": "Wall Kickovers",
+		            "name": "Wall Handstand Walk Downs",
 		            "duration": 30,
-		            "instructions": "Use a wall or incline to assist in kicking over one leg at a time from a bridge position."
+		            "instructions": "Start in a handstand against the wall, then slowly walk your hands back while feet come down, mimicking the back walkover motion safely."
 		        },
 		        {
 		            "id": "bwmv4",
-		            "name": "Back Walkover Attempts",
-		            "duration": 60,
-		            "instructions": "Start standing, reach into a bridge, and kick over with one leg, finishing in a split or lunge."
+		            "name": "Split Flexibility Hold",
+		            "duration": 45,
+		            "instructions": "Hold a front split on each leg for half the time. Focus on staying square and breathing through the stretch."
 		        },
 		        {
 		            "id": "bwmv5",
-		            "name": "Rest",
+		            "name": "Reset and Recover",
 		            "duration": 30,
-		            "instructions": "Relax and stretch out shoulders, wrists, and back. Breathe before the next set."
+		            "instructions": "Relax your back and shoulders. Shake out your wrists and breathe before starting again."
 		        }
 		    ]
 		},
@@ -443,33 +443,33 @@
 		    "movements": [
 		        {
 		            "id": "sbhsmv1",
-		            "name": "Sit and Jump Drills",
+		            "name": "Chair Sit Holds",
 		            "duration": 45,
-		            "instructions": "Practice sitting into a low squat and exploding upward with arms tight by ears to simulate the takeoff."
+		            "instructions": "Stand with feet together and sit back like you're sitting into a chair. Hold with arms by ears and back flat. This builds leg strength and the correct takeoff shape."
 		        },
 		        {
 		            "id": "sbhsmv2",
-		            "name": "Snap-Down Handstand",
+		            "name": "Bridge Arm Pushes",
 		            "duration": 45,
-		            "instructions": "Kick to handstand and snap down with control, landing feet together to build speed and body alignment."
+		            "instructions": "Push into a bridge and press through your arms to simulate the push needed to support your weight in a back handspring."
 		        },
 		        {
 		            "id": "sbhsmv3",
-		            "name": "Wrist Rockers",
+		            "name": "Snap-Down Handstand Drills",
 		            "duration": 30,
-		            "instructions": "Rock gently from palm to fingers in a push-up position to prepare wrists for backward weight transfer."
+		            "instructions": "Kick into a handstand against the wall, then snap your feet down fast together. This teaches the finishing motion with control."
 		        },
 		        {
 		            "id": "sbhsmv4",
-		            "name": "Back Handspring Attempts",
-		            "duration": 60,
-		            "instructions": "Perform standing back handsprings with focus on arm drive, tight body shape, and quick snap-down to feet."
+		            "name": "Arm Swing Rebounds",
+		            "duration": 45,
+		            "instructions": "Stand tall, swing arms back and forward quickly while jumping upward. Focus on strong arms and keeping your body tight in the air."
 		        },
 		        {
 		            "id": "sbhsmv5",
-		            "name": "Rest",
+		            "name": "Reset and Shake Out",
 		            "duration": 30,
-		            "instructions": "Shake out arms and shoulders. Stretch wrists and breathe before continuing."
+		            "instructions": "Shake out arms and legs. Take a breath, stretch your wrists, and get ready to go again."
 		        }
 		    ]
 		},
@@ -504,33 +504,33 @@
 		    "movements": [
 		        {
 		            "id": "robhsmv1",
-		            "name": "Roundoff Snap-Down Rebound",
+		            "name": "Roundoff Snap Shapes",
 		            "duration": 45,
-		            "instructions": "Perform roundoffs focusing on strong snap-downs and high, tight rebounds to prep for connection."
+		            "instructions": "Practice snapping legs together after cartwheel-style entries, finishing in a rebound. Focus on tight body and fast feet."
 		        },
 		        {
 		            "id": "robhsmv2",
-		            "name": "Handstand Snap Drills",
+		            "name": "Wall Handstand Snap Downs",
 		            "duration": 45,
-		            "instructions": "Kick to a handstand, then snap down quickly to reinforce fast transitions and body control."
+		            "instructions": "Kick into a handstand against the wall. Snap your legs down quickly and finish in a strong rebound position. Stay tight the whole time."
 		        },
 		        {
 		            "id": "robhsmv3",
-		            "name": "Back Handspring Arm Swings",
+		            "name": "Chair Sit Arm Swings",
 		            "duration": 30,
-		            "instructions": "Practice deep sit positions and aggressive arm swings backward to simulate the takeoff from rebound."
+		            "instructions": "Stand with feet together. Sit back like you’re in a chair and swing arms back and forward. Jump if ready. Focus on timing and tight arms."
 		        },
 		        {
 		            "id": "robhsmv4",
-		            "name": "Roundoff Back Handspring Attempts",
-		            "duration": 60,
-		            "instructions": "Connect a roundoff into a back handspring with tight form, strong arm drive, and solid landing mechanics."
+		            "name": "Bridge Push Conditioning",
+		            "duration": 45,
+		            "instructions": "Hold a bridge with straight arms, then push through your shoulders. This builds the power needed to support the back handspring."
 		        },
 		        {
 		            "id": "robhsmv5",
-		            "name": "Rest",
+		            "name": "Reset and Recover",
 		            "duration": 30,
-		            "instructions": "Shake out your wrists and shoulders. Take deep breaths and prepare for the next round."
+		            "instructions": "Shake out arms and legs, stretch your wrists and shoulders, and get ready for the next set."
 		        }
 		    ]
 		},
@@ -569,42 +569,42 @@
         "description": "A standing backflip performed without the use of hands, requiring explosive power and precise timing. It develops air awareness and body control at higher speeds.",
         "shapeTip": "Jump straight up, not back. Pull the knees to the chest quickly and keep hands wrapped around the shins. Spot the landing early and absorb the impact through the legs.",
         "level": "Level 4",
-        "linkedWorkoutSkill": {
-            "id": "workout_back_tuck_001",
-            "name": "Back Tuck",
-            "movements": [
-                {
-                    "id": "btmv1",
-                    "name": "Jump Drills",
-                    "duration": 60,
-                    "instructions": "Explode straight up off the ground with arms tight by your ears."
-                },
-                {
-                    "id": "btmv2",
-                    "name": "Tuck Shape Holds",
-                    "duration": 45,
-                    "instructions": "Hold a tuck shape on your back or in a candlestick."
-                },
-                {
-                    "id": "btmv3",
-                    "name": "Standing Back Jumps",
-                    "duration": 30,
-                    "instructions": "Practice jumping and tucking with arm swing."
-                },
-                {
-                    "id": "btmv4",
-                    "name": "Rest",
-                    "duration": 30,
-                    "instructions": "Breathe and shake out your legs."
-                },
-                {
-                    "id": "btmv5",
-                    "name": "Back Tuck Attempts",
-                    "duration": 60,
-                    "instructions": "Perform clean, controlled back tucks."
-                }
-            ]
-        },
+		"linkedWorkoutSkill": {
+		    "id": "workout_standing_back_tuck_001",
+		    "name": "Standing Back Tuck",
+		    "movements": [
+		        {
+		            "id": "sbtmv1",
+		            "name": "Tuck Jumps on Panel Mat",
+		            "duration": 45,
+		            "instructions": "Stand on a mat and jump straight up, pulling knees to chest like a tuck. Focus on going up, not back, and landing softly."
+		        },
+		        {
+		            "id": "sbtmv2",
+		            "name": "Seated Tuck Holds",
+		            "duration": 45,
+		            "instructions": "Sit on the floor and hug your knees tight into your chest. Hold for time to build strength and control in the tuck shape."
+		        },
+		        {
+		            "id": "sbtmv3",
+		            "name": "Arm Swing to Jump Drill",
+		            "duration": 30,
+		            "instructions": "Stand tall, swing arms back and up quickly, then jump straight up with tight form. Focus on timing and power."
+		        },
+		        {
+		            "id": "sbtmv4",
+		            "name": "Wall Sit or Box Sit Holds",
+		            "duration": 45,
+		            "instructions": "Hold a seated position with thighs parallel to the floor, either against a wall or on a low block. Builds leg strength needed for lift."
+		        },
+		        {
+		            "id": "sbtmv5",
+		            "name": "Reset and Breathe",
+		            "duration": 30,
+		            "instructions": "Shake out your legs and arms. Breathe deeply and get ready for the next round."
+		        }
+		    ]
+		},
         "media": {
             "id": "7c782c5a-6fda-4719-a881-abb96a4dbefb",
             "demo": "",
@@ -646,33 +646,33 @@
 		    "movements": [
 		        {
 		            "id": "robhbtmv1",
-		            "name": "Roundoff Rebounds",
+		            "name": "Snap-Down Rebound Drills",
 		            "duration": 45,
-		            "instructions": "Perform roundoffs with a strong snap-down and rebound to build explosive connection prep."
+		            "instructions": "Practice roundoffs and back handsprings separately with a strong snap-down and high rebound. Focus on landing tight with arms up."
 		        },
 		        {
 		            "id": "robhbtmv2",
-		            "name": "Back Handspring to Rebound",
+		            "name": "Tuck Jump Conditioning",
 		            "duration": 45,
-		            "instructions": "Perform a back handspring with an aggressive snap-down, focusing on height and timing of the rebound."
+		            "instructions": "Do vertical tuck jumps using a strong arm swing. Pull your knees to your chest and land with control."
 		        },
 		        {
 		            "id": "robhbtmv3",
-		            "name": "Tuck Jumps with Arm Swing",
+		            "name": "Seated Tuck Shape Holds",
 		            "duration": 30,
-		            "instructions": "Practice standing tuck jumps using a powerful arm swing, aiming for tight knees and chest position."
+		            "instructions": "Sit on the floor and hug your knees tightly into your chest. Keep your core engaged and back rounded."
 		        },
 		        {
 		            "id": "robhbtmv4",
-		            "name": "RO-BHS-Back Tuck Attempts",
-		            "duration": 60,
-		            "instructions": "Connect a roundoff, back handspring, and back tuck. Focus on power, tight rotation, and soft landings."
+		            "name": "Bridge Pushes or Shoulder Rocks",
+		            "duration": 45,
+		            "instructions": "Hold a bridge or tabletop position and push through your shoulders. This builds strength for the handspring part of the pass."
 		        },
 		        {
 		            "id": "robhbtmv5",
-		            "name": "Rest",
+		            "name": "Reset and Shake Out",
 		            "duration": 30,
-		            "instructions": "Relax, breathe deeply, and shake out your legs and arms. Recover before the next round."
+		            "instructions": "Breathe deep, shake out your arms and legs, and get ready for another round."
 		        }
 		    ]
 		},
@@ -712,33 +712,33 @@
 		    "movements": [
 		        {
 		            "id": "robhltmv1",
-		            "name": "Roundoff Rebounds",
+		            "name": "Snap-Down to Rebound Drill",
 		            "duration": 45,
-		            "instructions": "Perform roundoffs with strong snap-downs and high rebounds to generate power for layout."
+		            "instructions": "Practice snapping down from a handstand or cartwheel into a tight rebound. Land tall with arms by your ears and legs tight together."
 		        },
 		        {
 		            "id": "robhltmv2",
-		            "name": "Hollow Body Holds",
+		            "name": "Hollow Hold with Reach",
 		            "duration": 45,
-		            "instructions": "Lie on your back with arms by ears and hold a tight hollow position to build body tension needed for layouts."
+		            "instructions": "Lay on your back in a hollow shape, then extend your arms overhead like you’re in the air during a layout. Hold steady and keep your body tight."
 		        },
 		        {
 		            "id": "robhltmv3",
-		            "name": "Back Handspring to Rebound",
+		            "name": "Bridge Push with Arm Tension",
 		            "duration": 30,
-		            "instructions": "Focus on snapping down out of the back handspring and rebounding tall with arms tight to simulate layout prep."
+		            "instructions": "Hold a bridge and press through your shoulders to strengthen your arm and back tension. Keep legs together and hips up."
 		        },
 		        {
 		            "id": "robhltmv4",
-		            "name": "RO-BHS-Layout Attempts",
-		            "duration": 60,
-		            "instructions": "Connect roundoff and back handspring into a stretched layout. Emphasize hollow shape and controlled rotation."
+		            "name": "Straight Body Jump Drill",
+		            "duration": 45,
+		            "instructions": "Jump up with a tight, straight body — arms by ears, legs squeezed together. Focus on reaching upward and holding shape in the air."
 		        },
 		        {
 		            "id": "robhltmv5",
-		            "name": "Rest",
+		            "name": "Reset and Breathe",
 		            "duration": 30,
-		            "instructions": "Shake out your legs and arms. Take a deep breath and reset for the next round."
+		            "instructions": "Take a short break, shake out your body, and prepare to repeat the set with better form."
 		        }
 		    ]
 		},
@@ -783,33 +783,33 @@
 		    "movements": [
 		        {
 		            "id": "robhfullmv1",
-		            "name": "Layout Rebounds",
+		            "name": "Layout Body Tension Drill",
 		            "duration": 45,
-		            "instructions": "Connect roundoff and back handspring into a layout. Focus on strong set, hollow body position, and height."
+		            "instructions": "Lay on your back in a hollow body shape with arms by your ears. Squeeze everything tight and hold. This builds the shape you’ll use in the layout before twisting."
 		        },
 		        {
 		            "id": "robhfullmv2",
-		            "name": "Twisting Prep Drills",
+		            "name": "Rebound Jump with Arm Set",
 		            "duration": 45,
-		            "instructions": "Practice jump half and full turns with arms tight and eyes spotting. Build twist awareness and control."
+		            "instructions": "From a standing position, practice jumping straight up with tight arms by your ears. Focus on vertical lift and tight body shape."
 		        },
 		        {
 		            "id": "robhfullmv3",
-		            "name": "Layout Half Twists",
+		            "name": "Jump Half and Full Turns",
 		            "duration": 30,
-		            "instructions": "Perform layouts with a controlled half twist to introduce twisting mechanics while maintaining body tension."
+		            "instructions": "Practice turning in the air. Start with a jump half turn and progress to full turns. Keep your body tight and arms controlled."
 		        },
 		        {
 		            "id": "robhfullmv4",
-		            "name": "RO-BHS-Full Attempts",
-		            "duration": 60,
-		            "instructions": "Perform roundoff-back handspring fulls, emphasizing height, a clean twist, and a tight landing position."
+		            "name": "Bridge Shoulder Pushes",
+		            "duration": 45,
+		            "instructions": "Hold a strong bridge and push through your shoulders. This strengthens the power line used in the takeoff of your layout."
 		        },
 		        {
 		            "id": "robhfullmv5",
-		            "name": "Rest",
+		            "name": "Rest and Reset",
 		            "duration": 30,
-		            "instructions": "Breathe and shake out. Use this time to mentally reset and review your technique."
+		            "instructions": "Take a short break. Shake out your arms and legs, and get ready to repeat with even better form."
 		        }
 		    ]
 		},
@@ -854,33 +854,33 @@
 		    "movements": [
 		        {
 		            "id": "sbfmv1",
-		            "name": "Standing Layout Drills",
+		            "name": "Straight Jump to Hollow Hold",
 		            "duration": 45,
-		            "instructions": "Practice straight body jumps with hollow shape, focusing on tight form and vertical set."
+		            "instructions": "Jump straight up, then land and immediately drop into a hollow hold on your back. This builds body control and air awareness."
 		        },
 		        {
 		            "id": "sbfmv2",
 		            "name": "Twist Awareness Jumps",
 		            "duration": 45,
-		            "instructions": "Perform jump half and full turns with arms tight and core engaged to develop air sense."
+		            "instructions": "Jump in place and perform half or full twists with arms tight. Focus on twisting fast and landing with control."
 		        },
 		        {
 		            "id": "sbfmv3",
-		            "name": "Block and Turn Drill",
+		            "name": "Core and Arm Drive Drill",
 		            "duration": 30,
-		            "instructions": "Jump up with a strong block, then initiate a quick twist with shoulder and hip coordination."
+		            "instructions": "Stand tall, swing arms back and up, then do a strong vertical jump. Focus on coordination and timing like you would before takeoff."
 		        },
 		        {
 		            "id": "sbfmv4",
-		            "name": "Standing Full Attempts",
-		            "duration": 60,
-		            "instructions": "Perform standing fulls focusing on height, tight twist mechanics, and clean landings."
+		            "name": "Wall Sit with Twist Taps",
+		            "duration": 45,
+		            "instructions": "Hold a wall sit and alternate tapping each shoulder with the opposite hand. This builds core and twist coordination under tension."
 		        },
 		        {
 		            "id": "sbfmv5",
-		            "name": "Rest",
+		            "name": "Breathe and Shake Out",
 		            "duration": 30,
-		            "instructions": "Recover with deep breathing and shake out legs. Mentally prep for the next set."
+		            "instructions": "Take a break, shake out your legs and shoulders, and reset your focus for the next round."
 		        }
 		    ]
 		},
@@ -920,33 +920,33 @@
 		    "movements": [
 		        {
 		            "id": "robhdfmv1",
-		            "name": "Full Twist Layout Drills",
+		            "name": "Hollow to Tight Hold Drill",
 		            "duration": 45,
-		            "instructions": "Perform layouts with a full twist, focusing on height, body control, and clean rotation mechanics."
+		            "instructions": "Start in a hollow hold on your back. Pull your arms in tight across your chest as if you're twisting. This builds shape control and twist mechanics."
 		        },
 		        {
 		            "id": "robhdfmv2",
-		            "name": "Snap-Down and Set Conditioning",
+		            "name": "Snap-Down to Rebound",
 		            "duration": 45,
-		            "instructions": "Practice snapping down out of the back handspring into a vertical set with tight arms and hollow shape."
+		            "instructions": "Practice snapping your legs down from a handstand and rebounding straight up. Focus on speed and tightness."
 		        },
 		        {
 		            "id": "robhdfmv3",
-		            "name": "Twist Acceleration Drills",
+		            "name": "Full Twist Jumps",
 		            "duration": 30,
-		            "instructions": "Work jump full to double full progressions with rapid shoulder and hip rotation while maintaining control."
+		            "instructions": "Jump straight up and perform a full twist. Keep your body tight and controlled. This builds air awareness and twist speed."
 		        },
 		        {
 		            "id": "robhdfmv4",
-		            "name": "RO-BHS-Double Full Attempts",
-		            "duration": 60,
-		            "instructions": "Connect roundoff and back handspring into a double full twist. Emphasize height, fast twist, and a tight landing."
+		            "name": "Bridge Shoulder Pushes",
+		            "duration": 45,
+		            "instructions": "Push through your shoulders while holding a bridge. This strengthens the arm and upper body power needed for takeoff."
 		        },
 		        {
 		            "id": "robhdfmv5",
-		            "name": "Rest",
+		            "name": "Rest and Reset",
 		            "duration": 30,
-		            "instructions": "Take time to recover. Focus on breathing and resetting your mind and body before the next rep."
+		            "instructions": "Take a short break, shake out your arms and legs, and prepare for the next round."
 		        }
 		    ]
 		},
