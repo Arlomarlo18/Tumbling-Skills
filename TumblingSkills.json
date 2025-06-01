@@ -431,6 +431,56 @@
         },
         "category": "standing"
     },
+	{
+	    "id": "f23e63f9-2a92-4e13-bc40-15fc6d6fe0be",
+	    "name": "Valdez",
+	    "description": "The Valdez is a backward tumbling skill that begins from a seated or low lunge position and moves into a back walkover. It develops shoulder flexibility, lower back strength, and body awareness while inverting from the floor.",
+	    "shapeTip": "Start seated with one leg tucked and the other extended. Place one hand behind you and the other by your ear. Push through the supporting arm and arch into a bridge, kicking the straight leg over and finishing in a lunge. Keep control throughout the entire lift and rotation.",
+	    "level": "Level 3",
+	    "linkedWorkoutSkill": {
+	        "id": "workout_valdez_001",
+	        "name": "Valdez",
+	        "movements": [
+	            {
+	                "id": "valmv1",
+	                "name": "Seated Push Bridge",
+	                "duration": 45,
+	                "instructions": "Sit with one hand behind you and one by your ear. Push into a bridge slowly. Focus on using your shoulder and back strength to lift."
+	            },
+	            {
+	                "id": "valmv2",
+	                "name": "One-Leg Bridge Lifts",
+	                "duration": 45,
+	                "instructions": "Hold a bridge and slowly lift one leg straight into the air. Keep hips lifted and arms strong to prepare for the kick-over."
+	            },
+	            {
+	                "id": "valmv3",
+	                "name": "Split Hold Over Block",
+	                "duration": 30,
+	                "instructions": "Hold a low split with your front leg elevated. Keep your chest tall and hips square to build mobility and awareness."
+	            },
+	            {
+	                "id": "valmv4",
+	                "name": "Slow Rock Back to Hands",
+	                "duration": 45,
+	                "instructions": "Sit in a tuck with one arm reaching back. Rock back and practice placing the hand behind you with control. This simulates the Valdez entry."
+	            },
+	            {
+	                "id": "valmv5",
+	                "name": "Rest and Stretch",
+	                "duration": 30,
+	                "instructions": "Stretch your wrists, back, and shoulders. Shake out your arms and take deep breaths before the next round."
+	            }
+	        ]
+	    },
+	    "media": {
+	        "id": "cf3f85f3-8883-4fa0-97c7-1f32fe8c0f5e",
+	        "demo": "",
+	        "demo3D": "",
+	        "tutorials": []
+	    },
+	    "category": "standing"
+	},
     {
         "id": "4b322652-c126-41f4-98e5-6c57f2d101b7",
         "name": "Standing Back Handspring",
@@ -492,6 +542,56 @@
         },
         "category": "standing"
     },
+	{
+	    "id": "f95f023e-7f58-4c07-87d0-1b8b1c7e2a00",
+	    "name": "Front Handspring",
+	    "description": "The front handspring is a forward-traveling tumbling skill that involves a quick transition from a handstand through to the feet using leg drive and shoulder push. It builds dynamic power, coordination, and front-to-back momentum transfer essential for advanced tumbling passes.",
+	    "shapeTip": "Start in a strong lunge. Kick into a tight handstand with arms locked and body straight. Push hard through the shoulders as your legs pass over, finishing in a controlled rebound with hips extended and arms by ears.",
+	    "level": "Level 3",
+	    "linkedWorkoutSkill": {
+	        "id": "workout_front_handspring_001",
+	        "name": "Front Handspring",
+	        "movements": [
+	            {
+	                "id": "fhs1",
+	                "name": "Lunge to T Hold",
+	                "duration": 45,
+	                "instructions": "Start in a lunge and shift forward into a T position. Keep the back leg lifted, body tight, and arms by your ears to build alignment control."
+	            },
+	            {
+	                "id": "fhs2",
+	                "name": "Handstand Snap Downs",
+	                "duration": 45,
+	                "instructions": "Kick into a handstand and practice snapping down quickly to your feet. Focus on speed and tight body control through the motion."
+	            },
+	            {
+	                "id": "fhs3",
+	                "name": "Bridge Shoulder Pushes",
+	                "duration": 30,
+	                "instructions": "Hold a bridge and push through the shoulders repeatedly. This strengthens the power line used to push off the floor during a front handspring."
+	            },
+	            {
+	                "id": "fhs4",
+	                "name": "Panel Mat Block Hops",
+	                "duration": 45,
+	                "instructions": "Use your hands on a panel mat and jump feet over it in a front handspring motion. Focus on quick push-off and strong arm drive."
+	            },
+	            {
+	                "id": "fhs5",
+	                "name": "Rest and Reset",
+	                "duration": 30,
+	                "instructions": "Shake out your arms and legs. Stretch your shoulders and wrists. Take a breath before the next round."
+	            }
+	        ]
+	    },
+	    "media": {
+	        "id": "fa177ba7-fb0f-4ec6-9878-3c10e13aa333",
+	        "demo": "",
+	        "demo3D": "",
+	        "tutorials": []
+	    },
+	    "category": "running"
+	},
     {
         "id": "6289f9a0-0c2f-4981-842f-03691a76d7ff",
         "name": "Roundoff Back Handspring",
@@ -634,6 +734,106 @@
         },
         "category": "standing"
     },
+	{
+	    "id": "4dc55a89-7c0e-403f-bdf4-80e0e3f9d02c",
+	    "name": "Standing Front Tuck",
+	    "description": "The standing front tuck is a front flip performed from a standing position, requiring explosive power and tight shape. It teaches vertical lift, body awareness, and landing control without the assistance of forward momentum.",
+	    "shapeTip": "Stand with feet together, arms by your sides. Swing arms up quickly and jump straight up, not forward. Pull knees to chest tightly at the top, stay rounded in the tuck, and prepare for a soft, balanced landing.",
+	    "level": "Level 4",
+	    "linkedWorkoutSkill": {
+	        "id": "workout_standing_front_tuck_001",
+	        "name": "Standing Front Tuck",
+	        "movements": [
+	            {
+	                "id": "sftmv1",
+	                "name": "Tuck Jumps",
+	                "duration": 45,
+	                "instructions": "Jump straight up and pull your knees to your chest. Focus on lifting through your arms and keeping the tuck tight."
+	            },
+	            {
+	                "id": "sftmv2",
+	                "name": "Seated Tuck Shape Hold",
+	                "duration": 45,
+	                "instructions": "Sit down and hug your knees into your chest. Hold the tightest ball you can and keep your chin tucked."
+	            },
+	            {
+	                "id": "sftmv3",
+	                "name": "Arm Swing to Set",
+	                "duration": 30,
+	                "instructions": "Practice swinging your arms back and then quickly up as you jump. Focus on a clean, vertical takeoff."
+	            },
+	            {
+	                "id": "sftmv4",
+	                "name": "Wall Sit Jumps",
+	                "duration": 45,
+	                "instructions": "Do a short wall sit to engage legs, then come off the wall and immediately jump up. This builds explosive power for standing takeoffs."
+	            },
+	            {
+	                "id": "sftmv5",
+	                "name": "Rest and Recover",
+	                "duration": 30,
+	                "instructions": "Breathe deeply, shake out your legs, and stretch before beginning another round."
+	            }
+	        ]
+	    },
+	    "media": {
+	        "id": "da1eb9b6-b68f-4c3f-b5a3-06c304520c43",
+	        "demo": "",
+	        "demo3D": "",
+	        "tutorials": []
+	    },
+	    "category": "standing"
+	},
+	{
+	    "id": "7a8939a7-4f6a-4f48-87c4-19e10a9d1c50",
+	    "name": "2 Step Punch Front",
+	    "description": "The 2 Step Punch Front is a tumbling skill that uses a short running start and punch to generate momentum for a front tuck. It helps athletes learn to transfer forward speed into vertical lift while maintaining body control and tight shape in the air.",
+	    "shapeTip": "Take two strong steps forward and punch off both feet at the same time. Swing arms up, drive through the toes, and keep the chest lifted. Tuck tightly at the top of the jump and prepare to land softly with knees slightly bent.",
+	    "level": "Level 4",
+	    "linkedWorkoutSkill": {
+	        "id": "workout_2_step_punch_front_001",
+	        "name": "2 Step Punch Front",
+	        "movements": [
+	            {
+	                "id": "pfmv1",
+	                "name": "Punch Jump Rebounds",
+	                "duration": 45,
+	                "instructions": "Practice jumping off both feet with arms swinging up. Focus on quick, tight bounces and straight body posture."
+	            },
+	            {
+	                "id": "pfmv2",
+	                "name": "Seated Tuck Holds",
+	                "duration": 45,
+	                "instructions": "Sit on the ground, hug your knees into your chest, and hold a tight tuck shape. This builds core strength and air control."
+	            },
+	            {
+	                "id": "pfmv3",
+	                "name": "Arm Swing Timing Drill",
+	                "duration": 30,
+	                "instructions": "Stand tall, swing your arms back and forward quickly while jumping. Match the arm swing with your leg drive to simulate takeoff."
+	            },
+	            {
+	                "id": "pfmv4",
+	                "name": "Two Step Punch Jump to Block",
+	                "duration": 45,
+	                "instructions": "Take two steps and punch onto a low block or mat. Focus on posture, arm set, and vertical lift — not distance."
+	            },
+	            {
+	                "id": "pfmv5",
+	                "name": "Rest and Reset",
+	                "duration": 30,
+	                "instructions": "Take a break. Shake out your legs and arms. Breathe deeply and refocus before the next set."
+	            }
+	        ]
+	    },
+	    "media": {
+	        "id": "ce34a8f2-1d83-4e6a-aed7-8a47ad9c8851",
+	        "demo": "",
+	        "demo3D": "",
+	        "tutorials": []
+	    },
+	    "category": "running"
+	},
     {
         "id": "b0a2ff1d-f02f-4123-9c50-f47ea226a462",
         "name": "Roundoff Back Handspring Back Tuck",
