@@ -1,4 +1,4 @@
-[
+[[
   {
     "id": "0090f909-9ced-4415-a8e2-c725fffca2d2",
     "name": "Forward Roll",
@@ -245,6 +245,42 @@
     "description": "A standing backflip performed without the use of hands, requiring explosive power and precise timing. It develops air awareness and body control at higher speeds.",
     "shapeTip": "Jump straight up, not back. Pull the knees to the chest quickly and keep hands wrapped around the shins. Spot the landing early and absorb the impact through the legs.",
     "level": "Level 4",
+	"linkedWorkoutSkill": {
+	  "id": "workout_back_tuck_001",
+	  "name": "Back Tuck",
+	  "movements": [
+	    {
+	      "id": "btmv1",
+	      "name": "Jump Drills",
+	      "duration": 60,
+	      "instructions": "Explode straight up off the ground with arms tight by your ears."
+	    },
+	    {
+	      "id": "btmv2",
+	      "name": "Tuck Shape Holds",
+	      "duration": 45,
+	      "instructions": "Hold a tuck shape on your back or in a candlestick."
+	    },
+	    {
+	      "id": "btmv3",
+	      "name": "Standing Back Jumps",
+	      "duration": 30,
+	      "instructions": "Practice jumping and tucking with arm swing."
+	    },
+	    {
+	      "id": "btmv4",
+	      "name": "Rest",
+	      "duration": 30,
+	      "instructions": "Breathe and shake out your legs."
+	    },
+	    {
+	      "id": "btmv5",
+	      "name": "Back Tuck Attempts",
+	      "duration": 60,
+	      "instructions": "Perform clean, controlled back tucks."
+	    }
+	  ]
+	},
     "media": {
       "id": "7c782c5a-6fda-4719-a881-abb96a4dbefb",
       "demo": "",
