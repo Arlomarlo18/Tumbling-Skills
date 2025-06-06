@@ -477,13 +477,7 @@
 	        "id": "af781938-39d5-4951-9d07-260cdf0e1a31",
 	        "demo": "",
 	        "demo3D": "",
-	        "tutorials": [
-	            {
-	                "id": "1AC",
-	                "title": "Aerial Tutorial",
-	                "url": "https://www.youtube.com/shorts/gNeMYXIsKRE"
-	            }
-	        ]
+	        "tutorials": []
 	    },
 	    "category": "running"
 	},
@@ -533,13 +527,7 @@
 	        "id": "fc8a9c21-0472-4c0f-bd87-2c9c12b59344",
 	        "demo": "",
 	        "demo3D": "",
-	        "tutorials": [
-	            {
-	                "id": "1FA",
-	                "title": "Front Aerial Drills!",
-	                "url": "https://www.youtube.com/watch?v=loi0aHGjeng"
-	            }
-	        ]
+	        "tutorials": []
 	    },
 	    "category": "running"
 	},
