@@ -431,6 +431,118 @@
         },
         "category": "standing"
     },
+	{
+	    "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+	    "name": "Aerial Cartwheel",
+	    "description": "The aerial cartwheel, or side aerial, is a dynamic acrobatic skill where the athlete performs a cartwheel without using their hands. It requires explosive power, core control, leg drive, and spatial awareness to execute safely and with style.",
+	    "shapeTip": "Use a strong hurdle step and drive the back leg with power while keeping the chest lifted. Engage the core tightly and extend the arms for balance. Stay hollow and aligned through the air to land cleanly on one foot.",
+	    "level": "Level 3",
+	    "linkedWorkoutSkill": {
+	        "id": "workout_aerial_cartwheel_001",
+	        "name": "Aerial Cartwheel",
+	        "movements": [
+	            {
+	                "id": "acsmv1",
+	                "name": "Split Lunge Jumps",
+	                "duration": 45,
+	                "instructions": "From a lunge position, jump and switch legs mid-air. Keep your arms by your ears and land softly in the opposite lunge. Builds explosive power and leg drive."
+	            },
+	            {
+	                "id": "acsmv2",
+	                "name": "Side Plank Leg Lifts",
+	                "duration": 45,
+	                "instructions": "Hold a side plank and lift the top leg slowly. Focus on control and core tension. Strengthens the side body and hip stability needed for aerial takeoff."
+	            },
+	            {
+	                "id": "acsmv3",
+	                "name": "Single Leg Glute Bridges",
+	                "duration": 30,
+	                "instructions": "Lay on your back with one foot on the floor, the other extended. Push through the grounded foot to lift your hips high. Builds hamstring and glute strength for leg propulsion."
+	            },
+	            {
+	                "id": "acsmv4",
+	                "name": "Hollow Body Side Rocks",
+	                "duration": 45,
+	                "instructions": "Lay in a hollow hold and rock slightly side-to-side without breaking shape. Builds core control and rotational strength."
+	            },
+	            {
+	                "id": "acsmv5",
+	                "name": "Rest and Stretch",
+	                "duration": 30,
+	                "instructions": "Relax and stretch your hips, quads, and sides. Focus on controlled breathing to prepare for another set."
+	            }
+	        ]
+	    },
+	    "media": {
+	        "id": "media_aerial_cartwheel_001",
+	        "demo": "",
+	        "demo3D": "",
+	        "tutorials": [
+	            {
+	                "id": "1AC",
+	                "title": "Aerial Tutorial",
+	                "url": "https://youtube.com/shorts/gNeMYXIsKRE?si=wUSO5DHckwL8bx5I"
+	            }
+	        ]
+	    },
+	    "category": "running"
+	},
+	{
+	    "id": "a1b2c3d4-e5f6-7890-abcd-1234567890ab",
+	    "name": "Front Aerial",
+	    "description": "The front aerial is an advanced acrobatic skill where the gymnast performs a forward rotation without hand support, maintaining a split position throughout the motion. It requires significant leg strength, flexibility, and precise timing to execute successfully.",
+	    "shapeTip": "Begin with a strong lunge, driving the back leg upward while pushing off the front leg. Maintain a tight core and extended split position in the air, ensuring a controlled landing with arms by your ears.",
+	    "level": "Level 4",
+	    "linkedWorkoutSkill": {
+	        "id": "workout_front_aerial_001",
+	        "name": "Front Aerial",
+	        "movements": [
+	            {
+	                "id": "fa1",
+	                "name": "Split Jumps",
+	                "duration": 45,
+	                "instructions": "Perform dynamic split jumps to enhance leg flexibility and strength. Focus on achieving maximum split and controlled landings."
+	            },
+	            {
+	                "id": "fa2",
+	                "name": "Core Stability Planks",
+	                "duration": 60,
+	                "instructions": "Hold a plank position, engaging the core muscles to build stability essential for aerial maneuvers."
+	            },
+	            {
+	                "id": "fa3",
+	                "name": "Single-Leg Hops",
+	                "duration": 30,
+	                "instructions": "Execute hops on one leg to develop balance and explosive power, alternating legs after each set."
+	            },
+	            {
+	                "id": "fa4",
+	                "name": "Bridge Holds",
+	                "duration": 45,
+	                "instructions": "Maintain a bridge position to improve back flexibility and shoulder strength, crucial for the front aerial's arch."
+	            },
+	            {
+	                "id": "fa5",
+	                "name": "Rest and Recovery",
+	                "duration": 30,
+	                "instructions": "Take a moment to rest, hydrate, and prepare for the next set of exercises."
+	            }
+	        ]
+	    },
+	    "media": {
+	        "id": "media_front_aerial_001",
+	        "demo": "",
+	        "demo3D": "",
+	        "tutorials": [
+	            {
+	                "id": "1FA",
+	                "title": "Front Aerial Drills!",
+	                "url": "https://youtu.be/loi0aHGjeng?feature=shared"
+	            }
+	        ]
+	    },
+	    "category": "running"
+	},
     {
         "id": "f23e63f9-2a92-4e13-bc40-15fc6d6fe0be",
         "name": "Valdez",
