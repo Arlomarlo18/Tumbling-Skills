@@ -477,7 +477,18 @@
 	        "id": "af781938-39d5-4951-9d07-260cdf0e1a31",
 	        "demo": "",
 	        "demo3D": "",
-	        "tutorials": []
+	        "tutorials": [
+                {
+                    "id": "1AC",
+                    "title": "Hope these three tips help you get your side aerial!",
+                    "url": "https://www.youtube.com/shorts/n8JPGBry6JQ"
+                },
+                {
+                    "id": "2AC",
+                    "title": "Side aerial drills to practice!",
+                    "url": "https://www.youtube.com/shorts/y72Sxkr6TSo"
+                }
+            ]
 	    },
 	    "category": "running"
 	},
@@ -527,7 +538,18 @@
 	        "id": "fc8a9c21-0472-4c0f-bd87-2c9c12b59344",
 	        "demo": "",
 	        "demo3D": "",
-	        "tutorials": []
+	        "tutorials": [
+                {
+                    "id": "1FA",
+                    "title": "Front Aerial drills",
+                    "url": "https://www.youtube.com/shorts/co-ns5GqWxs"
+                },
+                {
+                    "id": "2FA",
+                    "title": "Top Tips for a Front Aerial!",
+                    "url": "https://www.youtube.com/shorts/Pf2y7eO6s2c"
+                }
+            ]
 	    },
 	    "category": "running"
 	},
@@ -963,7 +985,13 @@
             "id": "da1eb9b6-b68f-4c3f-b5a3-06c304520c43",
             "demo": "",
             "demo3D": "",
-            "tutorials": []
+            "tutorials": [
+                {
+                    "id": "1FT",
+                    "title": "FRONT TUCK TIPS: Lmk what other skills you want help with:)",
+                    "url": "https://www.youtube.com/watch?v=4fFwVQvKPA0"
+                }
+            ]
         },
         "category": "standing"
     },
@@ -1013,7 +1041,24 @@
             "id": "ce34a8f2-1d83-4e6a-aed7-8a47ad9c8851",
             "demo": "",
             "demo3D": "",
-            "tutorials": []
+            "tutorials": [
+                {
+                    "id": "12SPF",
+                    "title": "
+Front Tuck Tips! Send this to someone who is learning a front tuck!",
+                    "url": "https://www.youtube.com/watch?v=eSuRPat39Zc"
+                },
+                {
+                    "id": "22SPF",
+                    "title": "Front Tuck Tips: Part 2! Let me know if you need help with any other skills.",
+                    "url": "https://www.youtube.com/shorts/Dmwef5iXkRc"
+                },
+                {
+                    "id": "32SPR",
+                    "title": "FRONT TUCK TUTORIAL | learn a standing front flip FAST!!!!",
+                    "url": "https://www.youtube.com/watch?v=5r_LhfdBCNI"
+                }
+            ]
         },
         "category": "running"
     },
