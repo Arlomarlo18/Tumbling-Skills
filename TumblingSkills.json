@@ -1,10 +1,9 @@
-
 [
     {
         "id": "0090f909-9ced-4415-a8e2-c725fffca2d2",
         "name": "Forward Roll",
         "description": "The forward roll is a foundational tumbling skill where the athlete initiates a controlled roll from a standing position, tucking into a rounded shape and moving head-over-heels along the spine. This skill develops body awareness, coordination, and introduces athletes to safe inversion techniques.",
-        "shapeTip": "Begin by standing with feet shoulder-width apart. Tuck the chin tightly to the chest to protect the neck. Round the back and bend the knees deeply, placing hands on the floor. Push evenly with the legs to roll over the shoulders\u2014not the head\u2014keeping a tight tuck and arms wrapped around the shins throughout the roll.",
+        "shapeTip": "Begin by standing with feet shoulder-width apart. Tuck the chin tightly to the chest to protect the neck. Round the back and bend the knees deeply, placing hands on the floor. Push evenly with the legs to roll over the shoulders—not the head—keeping a tight tuck and arms wrapped around the shins throughout the roll.",
         "level": "Level 1",
         "linkedWorkoutSkill": {
             "id": "workout_forward_roll_001",
@@ -74,7 +73,12 @@
                 }
             ]
         },
-        "category": "standing"
+        "category": "standing",
+        "skillsNeededToDoThis": [
+            "Chin Tuck",
+            "Tuck Shape",
+            "Rounded Body Position"
+        ]
     },
     {
         "id": "ac14a8d5-faba-483e-8207-0331c2fb69fe",
@@ -150,12 +154,373 @@
                 }
             ]
         },
-        "category": "standing"
+        "category": "standing",
+        "skillsNeededToDoThis": [
+            "Chin Tuck",
+            "Tuck Shape",
+            "Bridge",
+            "Hand Push by Ears"
+        ]
+    },
+    {
+        "id": "df36bd64-cacd-48b9-96d4-2b9dbfa2b9b9",
+        "name": "Bridge",
+        "description": "The bridge is a foundational flexibility and strength skill where the athlete pushes into an arched position with hands and feet on the floor. It develops shoulder openness, back flexibility, arm strength, and body awareness, making it an essential base for back walkovers, front walkovers, Valdez, and back handsprings.",
+        "shapeTip": "Press evenly through the hands and feet, squeeze the legs, and lift the hips as high as possible. Keep the arms straight, shoulders open, and chest pushing through so the arch stays strong and supported instead of collapsed.",
+        "level": "Level 1",
+        "linkedWorkoutSkill": {
+            "id": "workout_bridge_001",
+            "name": "Bridge",
+            "movements": [
+                {
+                    "id": "brg1",
+                    "name": "Shoulder Opener Stretch",
+                    "duration": 45,
+                    "instructions": "Stand facing a wall or panel mat and place your hands overhead. Press your chest gently through your shoulders while keeping your ribs pulled in and arms straight."
+                },
+                {
+                    "id": "brg2",
+                    "name": "Glute Bridges",
+                    "duration": 45,
+                    "instructions": "Lay on your back with knees bent and feet flat. Lift your hips high by squeezing your glutes, then lower with control. This builds the leg and hip drive needed for a strong bridge."
+                },
+                {
+                    "id": "brg3",
+                    "name": "Bridge Push-Ups on Floor",
+                    "duration": 30,
+                    "instructions": "Push up into a bridge and gently rock your chest over your shoulders. Focus on straight arms, lifted hips, and active shoulders."
+                },
+                {
+                    "id": "brg4",
+                    "name": "Bridge Hold",
+                    "duration": 45,
+                    "instructions": "Hold a bridge with hands and feet planted firmly. Press the shoulders open, keep the elbows straight, and try to stack the chest over the hands as much as possible."
+                },
+                {
+                    "id": "brg5",
+                    "name": "Breathe and Recover",
+                    "duration": 30,
+                    "instructions": "Lower carefully to the floor, hug your knees to your chest, and take a few deep breaths before the next round."
+                }
+            ]
+        },
+        "media": {
+            "id": "921983e1-51ee-42d4-b5c6-6865b66f65fa",
+            "demo": "",
+            "demo3D": "",
+            "tutorials": [
+                {
+                    "id": "1B",
+                    "title": "Gymnastics Bridge Drills",
+                    "url": "https://www.youtube.com/shorts/F_-vW7M8Oj4"
+                },
+                {
+                    "id": "2B",
+                    "title": "Bridge progression",
+                    "url": "https://www.youtube.com/shorts/6hu9h2x6Dhg"
+                },
+                {
+                    "id": "3B",
+                    "title": "How To BACK BRIDGE For Beginners (FLEXIBLE & STRONG)",
+                    "url": "https://www.youtube.com/watch?v=tSvmWU-0Zo0"
+                }
+            ]
+        },
+        "category": "standing",
+        "skillsNeededToDoThis": [
+            "Shoulder Flexibility",
+            "Back Flexibility",
+            "Arm Strength"
+        ]
+    },
+    {
+        "id": "e97bd53a-3911-428c-81ab-4db8cf9a9c2b",
+        "name": "Bridge Kickover",
+        "description": "The bridge kickover teaches an athlete to shift weight through the shoulders and drive one leg over the body from a bridge to stand. It is a key progression toward back walkovers and other backward tumbling skills because it connects flexibility, shoulder push, and directional control.",
+        "shapeTip": "Start in a high bridge with straight arms and strong shoulders. Lift one leg high, push the chest forward over the hands, and drive the kicking leg all the way over while the supporting leg follows quickly.",
+        "level": "Level 1",
+        "linkedWorkoutSkill": {
+            "id": "workout_bridge_kickover_001",
+            "name": "Bridge Kickover",
+            "movements": [
+                {
+                    "id": "bko1",
+                    "name": "Single-Leg Bridge Lifts",
+                    "duration": 45,
+                    "instructions": "Push into a bridge and lift one leg at a time without letting the hips drop. Focus on keeping the shoulders open and the standing leg strong."
+                },
+                {
+                    "id": "bko2",
+                    "name": "Wall Bridge Walks",
+                    "duration": 45,
+                    "instructions": "Place your feet near a wall in a bridge and gently walk one foot higher to practice lifting the kicking leg while keeping the arms straight."
+                },
+                {
+                    "id": "bko3",
+                    "name": "Bridge Rocks Forward",
+                    "duration": 30,
+                    "instructions": "In a bridge, rock your shoulders forward over your hands and back again. This teaches the weight shift needed to get the hips and legs moving over."
+                },
+                {
+                    "id": "bko4",
+                    "name": "Kickover Attempts from Raised Surface",
+                    "duration": 60,
+                    "instructions": "Start with your feet on a panel mat or block in a bridge and practice kicking over with one leg leading. Focus on a quick second leg and a strong shoulder push."
+                },
+                {
+                    "id": "bko5",
+                    "name": "Reset and Stretch",
+                    "duration": 30,
+                    "instructions": "Come down slowly, stretch your wrists and shoulders, and shake out your legs before the next round."
+                }
+            ]
+        },
+        "media": {
+            "id": "2e1a7d69-8f1d-48f8-a7da-40ff2e82651b",
+            "demo": "",
+            "demo3D": "",
+            "tutorials": [
+                {
+                    "id": "1BK",
+                    "title": "Bridge Kick Over drills",
+                    "url": "https://www.youtube.com/watch?v=GhyJrpoydYc"
+                },
+                {
+                    "id": "2BK",
+                    "title": "Bridge Kick-Over Drills You Can Do at Home! Build strength, flexibility, and confidence at home!",
+                    "url": "https://www.youtube.com/shorts/npACvSc5Bss"
+                },
+                {
+                    "id": "3BK",
+                    "title": "Bridge Kick Over Drills [AT HOME DRILLS] | Mila B",
+                    "url": "https://www.youtube.com/watch?v=G0m75zSb2dQ"
+                }
+            ]
+        },
+        "category": "standing",
+        "skillsNeededToDoThis": [
+            "Bridge",
+            "Shoulder Flexibility",
+            "Leg Drive"
+        ]
+    },
+    {
+        "id": "7d7fd338-0917-4ab1-a2bb-d9a0be2e4b80",
+        "name": "Handstand Forward Roll",
+        "description": "The handstand forward roll connects vertical body alignment with a safe forward rolling action. It teaches athletes how to control an inverted line, shift weight through the shoulders, and exit the handstand with timing and body tension, making it a valuable progression toward front tumbling and front walkover development.",
+        "shapeTip": "Kick to a tight handstand with arms locked and shoulders elevated. As you begin to come down, keep the chin tucked and round through the upper back so the roll travels smoothly over the shoulders instead of collapsing.",
+        "level": "Level 1",
+        "linkedWorkoutSkill": {
+            "id": "workout_handstand_forward_roll_001",
+            "name": "Handstand Forward Roll",
+            "movements": [
+                {
+                    "id": "hfr1",
+                    "name": "Wall Handstand Holds",
+                    "duration": 45,
+                    "instructions": "Kick into a handstand against the wall and hold with straight arms, tight core, and legs together. Focus on a stacked line."
+                },
+                {
+                    "id": "hfr2",
+                    "name": "Forward Roll Review",
+                    "duration": 45,
+                    "instructions": "Practice a controlled forward roll with a tucked chin and rounded back so you can exit the handstand safely."
+                },
+                {
+                    "id": "hfr3",
+                    "name": "Donkey Kick to Soft Roll",
+                    "duration": 30,
+                    "instructions": "Place hands on the floor, kick lightly overhead, and practice rounding through the shoulders into a gentle roll. Stay tucked and controlled."
+                },
+                {
+                    "id": "hfr4",
+                    "name": "Handstand Step-In Roll Drill",
+                    "duration": 60,
+                    "instructions": "Kick toward handstand with control, then let the body tip forward and roll out over the shoulders. Focus on staying tight and smooth through the transition."
+                },
+                {
+                    "id": "hfr5",
+                    "name": "Recover and Breathe",
+                    "duration": 30,
+                    "instructions": "Stand up slowly, shake out your wrists and neck, and take a breath before going again."
+                }
+            ]
+        },
+        "media": {
+            "id": "f3348b5b-03a7-426c-9c15-21af272fcfae",
+            "demo": "",
+            "demo3D": "",
+            "tutorials": [
+                {
+                    "id": "1HSR",
+                    "title": "5 HANDSTAND + ROLL drills to help you improve",
+                    "url": "https://www.youtube.com/watch?v=da7-JbmfU9c"
+                },
+                {
+                    "id": "2HSR",
+                    "title": "Handstand Forward Roll Drills",
+                    "url": "https://www.youtube.com/shorts/2oDERquYzYI"
+                },
+                {
+                    "id": "3HSR",
+                    "title": "Handstand Forward Roll - Progressions",
+                    "url": "https://www.youtube.com/watch?v=rOPy-g-zDTs"
+                }
+            ]
+        },
+        "category": "standing",
+        "skillsNeededToDoThis": [
+            "Forward Roll",
+            "Handstand",
+            "Chin Tuck"
+        ]
+    },
+    {
+        "id": "99bc90a7-6084-4140-b540-b9b99fe0cb9a",
+        "name": "Snap Down",
+        "description": "The snap down is a foundational tumbling action where the athlete drives from an inverted position down to the feet with speed, tightness, and rebound. It is one of the most important connecting skills for roundoffs, back handsprings, front handsprings, and running tumbling because it teaches how to transfer power from the hands back to the floor.",
+        "shapeTip": "Reach long through the shoulders in the inverted position, then pull the ribs in and snap the legs down together fast. Land on the balls of the feet with the chest up and arms finishing by the ears or ready to rebound.",
+        "level": "Level 1",
+        "linkedWorkoutSkill": {
+            "id": "workout_snap_down_001",
+            "name": "Snap Down",
+            "movements": [
+                {
+                    "id": "sd1",
+                    "name": "Hollow Body Holds",
+                    "duration": 45,
+                    "instructions": "Lay on your back with arms by your ears and legs off the floor. Hold a tight hollow shape without arching your back."
+                },
+                {
+                    "id": "sd2",
+                    "name": "Wall Handstand Snap-Downs",
+                    "duration": 45,
+                    "instructions": "Kick to a handstand against a wall and practice snapping both feet down together quickly while keeping the body tight."
+                },
+                {
+                    "id": "sd3",
+                    "name": "Rebound Jumps",
+                    "duration": 30,
+                    "instructions": "Jump straight up and land with a quick, elastic rebound through the ankles and knees. Keep the body tall and tight."
+                },
+                {
+                    "id": "sd4",
+                    "name": "Handstand to Stick",
+                    "duration": 60,
+                    "instructions": "Kick into a handstand or strong donkey kick and snap your feet down together to a controlled landing. Focus on speed down and a strong finish."
+                },
+                {
+                    "id": "sd5",
+                    "name": "Shake Out and Reset",
+                    "duration": 30,
+                    "instructions": "Rest briefly, shake out your arms and legs, and get ready for the next round."
+                }
+            ]
+        },
+        "media": {
+            "id": "4b59517e-e4fb-4ea9-bbcd-4bba6785f227",
+            "demo": "",
+            "demo3D": "",
+            "tutorials": [
+                {
+                    "id": "1SD",
+                    "title": "Awesome drills to help you snap down your back handsprings!",
+                    "url": "https://www.youtube.com/shorts/3Gn0-kVv3fo"
+                },
+                {
+                    "id": "2SD",
+                    "title": "Handstand Snap Down Drills",
+                    "url": "https://www.youtube.com/watch?v=R4WZbbDj2Gg"
+                },
+                {
+                    "id": "3SD",
+                    "title": "A drill to help you snap down those Back Handsprings!",
+                    "url": "https://www.youtube.com/shorts/OjQQKsE6P18"
+                }
+            ]
+        },
+        "category": "standing",
+        "skillsNeededToDoThis": [
+            "Handstand",
+            "Tight Hollow Body",
+            "Core Control"
+        ]
+    },
+    {
+        "id": "d5b83331-2a74-4cc1-ab49-20cd3460e5ba",
+        "name": "Rebound",
+        "description": "The rebound is a quick, tight block off the floor that transfers landing energy into upward lift. It is a foundational connecting skill for standing and running tumbling because it teaches athletes how to stay elastic, controlled, and ready for the next skill.",
+        "shapeTip": "Land tall on the balls of the feet with a tight core and chest lifted. Absorb lightly through the ankles and knees, then block straight back up without letting the body collapse or drift forward.",
+        "level": "Level 1",
+        "linkedWorkoutSkill": {
+            "id": "workout_rebound_001",
+            "name": "Rebound",
+            "movements": [
+                {
+                    "id": "reb1",
+                    "name": "Straight Jumps",
+                    "duration": 45,
+                    "instructions": "Jump straight up with legs squeezed together and arms by your ears. Focus on landing softly and staying tall."
+                },
+                {
+                    "id": "reb2",
+                    "name": "Ankle Bounce Series",
+                    "duration": 45,
+                    "instructions": "Perform a series of small quick bounces through the ankles while keeping the knees and hips mostly tall. This builds elastic takeoff power."
+                },
+                {
+                    "id": "reb3",
+                    "name": "Stick and Rebound Drill",
+                    "duration": 30,
+                    "instructions": "Land a straight jump, hold for one second, then repeat with a faster block upward. Learn the difference between sticking and rebounding."
+                },
+                {
+                    "id": "reb4",
+                    "name": "Snap Down to Rebound",
+                    "duration": 60,
+                    "instructions": "Practice snapping down from a handstand or donkey kick and immediately rebounding upward with tight form and arms by your ears."
+                },
+                {
+                    "id": "reb5",
+                    "name": "Breathe and Reset",
+                    "duration": 30,
+                    "instructions": "Take a short break, relax your calves and ankles, and prepare for another round."
+                }
+            ]
+        },
+        "media": {
+            "id": "5a15a9ce-430a-46c7-b446-27aca0b75433",
+            "demo": "",
+            "demo3D": "",
+            "tutorials": [
+                {
+                    "id": "1R",
+                    "title": "Basic Rebound Drill",
+                    "url": "https://www.youtube.com/watch?v=-BYz-DDxT04"
+                },
+                {
+                    "id": "2R",
+                    "title": "5 Round-off Progressions with the Rebound Mat!",
+                    "url": "https://www.youtube.com/shorts/jdymsMRLRzo"
+                },
+                {
+                    "id": "3R",
+                    "title": "Best rebounding drill",
+                    "url": "https://www.youtube.com/shorts/8u0hmuzjnJI"
+                }
+            ]
+        },
+        "category": "standing",
+        "skillsNeededToDoThis": [
+            "Straight Jump",
+            "Landing Control",
+            "Ankle Strength"
+        ]
     },
     {
         "id": "d870ce20-0bc3-4fa8-80e9-2462e2ab6d5d",
         "name": "Handstand",
-        "description": "The handstand is a fundamental inversion that challenges an athlete\u2019s balance, strength, and alignment. It involves supporting the entire body vertically on the hands with legs extended overhead. This skill builds core strength, shoulder stability, and spatial awareness, making it essential for advanced tumbling and stunting.",
+        "description": "The handstand is a fundamental inversion that challenges an athlete’s balance, strength, and alignment. It involves supporting the entire body vertically on the hands with legs extended overhead. This skill builds core strength, shoulder stability, and spatial awareness, making it essential for advanced tumbling and stunting.",
         "shapeTip": "Begin in a lunge, kick up with control. Keep arms locked, shoulders shrugged to ears, and core tight. Engage the legs together in a straight line, reaching toes toward the ceiling and spotting between the hands for balance.",
         "level": "Level 1",
         "linkedWorkoutSkill": {
@@ -226,7 +591,13 @@
                 }
             ]
         },
-        "category": "standing"
+        "category": "standing",
+        "skillsNeededToDoThis": [
+            "Lunge",
+            "Tight Hollow Body",
+            "Shoulder Strength",
+            "Wall Handstand"
+        ]
     },
     {
         "id": "0698f14a-10d5-468a-89a5-c5a807175bf5",
@@ -287,14 +658,20 @@
                 }
             ]
         },
-        "category": "standing"
+        "category": "standing",
+        "skillsNeededToDoThis": [
+            "Lunge",
+            "Handstand",
+            "Sideways Inversion",
+            "Split Lever Shape"
+        ]
     },
     {
         "id": "e7bceb42-40d6-4f7b-a65e-25aa0068e4ef",
         "name": "Roundoff",
-        "description": "The roundoff is a powerful tumbling transition that resembles a cartwheel but finishes with the feet together and a backward momentum. It\u2019s commonly used to generate speed and lift for connected skills like back handsprings and tucks.",
+        "description": "The roundoff is a powerful tumbling transition that resembles a cartwheel but finishes with the feet together and a backward momentum. It’s commonly used to generate speed and lift for connected skills like back handsprings and tucks.",
         "shapeTip": "Start like a cartwheel but snap the legs together at the end to land with both feet, arms swinging overhead. Focus on a strong rebound and a quick transition from hands to feet.",
-        "level": "Level 2",
+        "level": "Level 1",
         "linkedWorkoutSkill": {
             "id": "workout_roundoff_001",
             "name": "Roundoff",
@@ -363,14 +740,20 @@
                 }
             ]
         },
-        "category": "running"
+        "category": "running",
+        "skillsNeededToDoThis": [
+            "Cartwheel",
+            "Handstand",
+            "Snap Down",
+            "Rebound"
+        ]
     },
     {
         "id": "dfededd4-5e68-42a6-9094-51c488a06a1c",
         "name": "Front Walkover",
         "description": "A graceful skill where the athlete passes through a handstand from a forward lunge, landing one foot at a time. It emphasizes flexibility, control, and a smooth flow of movement through inversion.",
         "shapeTip": "Begin in a lunge and kick into a handstand, arching through the back. Push off the hands as one leg reaches the ground first, followed by the second leg, landing softly in a split stance.",
-        "level": "Level 2",
+        "level": "Level 1",
         "linkedWorkoutSkill": {
             "id": "workout_front_walkover_001",
             "name": "Front Walkover",
@@ -429,14 +812,20 @@
                 }
             ]
         },
-        "category": "standing"
+        "category": "standing",
+        "skillsNeededToDoThis": [
+            "Bridge",
+            "Bridge Kickover",
+            "Handstand",
+            "Split Flexibility"
+        ]
     },
     {
         "id": "9bccd8e6-39ed-4ff5-b7b3-e77ec08c1162",
         "name": "Back Walkover",
         "description": "This skill starts from a standing position and involves a backward rotation through a handstand, landing one foot at a time. It builds confidence in backward movement, back flexibility, and shoulder mobility.",
         "shapeTip": "Reach back into a bridge with arms straight and legs split. Push off the hands and lead with the dominant leg to stand up gracefully, keeping the movement fluid and controlled.",
-        "level": "Level 2",
+        "level": "Level 1",
         "linkedWorkoutSkill": {
             "id": "workout_back_walkover_001",
             "name": "Back Walkover",
@@ -490,55 +879,61 @@
                 }
             ]
         },
-        "category": "standing"
+        "category": "standing",
+        "skillsNeededToDoThis": [
+            "Bridge",
+            "Bridge Kickover",
+            "Handstand",
+            "Shoulder Flexibility"
+        ]
     },
-	{
-	    "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-	    "name": "Aerial Cartwheel",
-	    "description": "The aerial cartwheel, or side aerial, is a dynamic acrobatic skill where the athlete performs a cartwheel without using their hands. It requires explosive power, core control, leg drive, and spatial awareness to execute safely and with style.",
-	    "shapeTip": "Use a strong hurdle step and drive the back leg with power while keeping the chest lifted. Engage the core tightly and extend the arms for balance. Stay hollow and aligned through the air to land cleanly on one foot.",
-	    "level": "Level 3",
-	    "linkedWorkoutSkill": {
-	        "id": "workout_aerial_cartwheel_001",
-	        "name": "Aerial Cartwheel",
-	        "movements": [
-	            {
-	                "id": "acsmv1",
-	                "name": "Split Lunge Jumps",
-	                "duration": 45,
-	                "instructions": "From a lunge position, jump and switch legs mid-air. Keep your arms by your ears and land softly in the opposite lunge. Builds explosive power and leg drive."
-	            },
-	            {
-	                "id": "acsmv2",
-	                "name": "Side Plank Leg Lifts",
-	                "duration": 45,
-	                "instructions": "Hold a side plank and lift the top leg slowly. Focus on control and core tension. Strengthens the side body and hip stability needed for aerial takeoff."
-	            },
-	            {
-	                "id": "acsmv3",
-	                "name": "Single Leg Glute Bridges",
-	                "duration": 30,
-	                "instructions": "Lay on your back with one foot on the floor, the other extended. Push through the grounded foot to lift your hips high. Builds hamstring and glute strength for leg propulsion."
-	            },
-	            {
-	                "id": "acsmv4",
-	                "name": "Hollow Body Side Rocks",
-	                "duration": 45,
-	                "instructions": "Lay in a hollow hold and rock slightly side-to-side without breaking shape. Builds core control and rotational strength."
-	            },
-	            {
-	                "id": "acsmv5",
-	                "name": "Rest and Stretch",
-	                "duration": 30,
-	                "instructions": "Relax and stretch your hips, quads, and sides. Focus on controlled breathing to prepare for another set."
-	            }
-	        ]
-	    },
-	    "media": {
-	        "id": "af781938-39d5-4951-9d07-260cdf0e1a31",
-	        "demo": "",
-	        "demo3D": "",
-	        "tutorials": [
+    {
+        "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+        "name": "Aerial Cartwheel",
+        "description": "The aerial cartwheel, or side aerial, is a dynamic acrobatic skill where the athlete performs a cartwheel without using their hands. It requires explosive power, core control, leg drive, and spatial awareness to execute safely and with style.",
+        "shapeTip": "Use a strong hurdle step and drive the back leg with power while keeping the chest lifted. Engage the core tightly and extend the arms for balance. Stay hollow and aligned through the air to land cleanly on one foot.",
+        "level": "Level 3",
+        "linkedWorkoutSkill": {
+            "id": "workout_aerial_cartwheel_001",
+            "name": "Aerial Cartwheel",
+            "movements": [
+                {
+                    "id": "acsmv1",
+                    "name": "Split Lunge Jumps",
+                    "duration": 45,
+                    "instructions": "From a lunge position, jump and switch legs mid-air. Keep your arms by your ears and land softly in the opposite lunge. Builds explosive power and leg drive."
+                },
+                {
+                    "id": "acsmv2",
+                    "name": "Side Plank Leg Lifts",
+                    "duration": 45,
+                    "instructions": "Hold a side plank and lift the top leg slowly. Focus on control and core tension. Strengthens the side body and hip stability needed for aerial takeoff."
+                },
+                {
+                    "id": "acsmv3",
+                    "name": "Single Leg Glute Bridges",
+                    "duration": 30,
+                    "instructions": "Lay on your back with one foot on the floor, the other extended. Push through the grounded foot to lift your hips high. Builds hamstring and glute strength for leg propulsion."
+                },
+                {
+                    "id": "acsmv4",
+                    "name": "Hollow Body Side Rocks",
+                    "duration": 45,
+                    "instructions": "Lay in a hollow hold and rock slightly side-to-side without breaking shape. Builds core control and rotational strength."
+                },
+                {
+                    "id": "acsmv5",
+                    "name": "Rest and Stretch",
+                    "duration": 30,
+                    "instructions": "Relax and stretch your hips, quads, and sides. Focus on controlled breathing to prepare for another set."
+                }
+            ]
+        },
+        "media": {
+            "id": "af781938-39d5-4951-9d07-260cdf0e1a31",
+            "demo": "",
+            "demo3D": "",
+            "tutorials": [
                 {
                     "id": "1AC",
                     "title": "Hope these three tips help you get your side aerial!",
@@ -555,56 +950,62 @@
                     "url": "https://www.youtube.com/shorts/AUP7UtdVK1Y"
                 }
             ]
-	    },
-	    "category": "running"
-	},
-	{
-	    "id": "a1b2c3d4-e5f6-7890-abcd-1234567890ab",
-	    "name": "Front Aerial",
-	    "description": "The front aerial is an advanced acrobatic skill where the gymnast performs a forward rotation without hand support, maintaining a split position throughout the motion. It requires significant leg strength, flexibility, and precise timing to execute successfully.",
-	    "shapeTip": "Begin with a strong lunge, driving the back leg upward while pushing off the front leg. Maintain a tight core and extended split position in the air, ensuring a controlled landing with arms by your ears.",
-	    "level": "Level 4",
-	    "linkedWorkoutSkill": {
-	        "id": "workout_front_aerial_001",
-	        "name": "Front Aerial",
-	        "movements": [
-	            {
-	                "id": "fa1",
-	                "name": "Split Jumps",
-	                "duration": 45,
-	                "instructions": "Perform dynamic split jumps to enhance leg flexibility and strength. Focus on achieving maximum split and controlled landings."
-	            },
-	            {
-	                "id": "fa2",
-	                "name": "Core Stability Planks",
-	                "duration": 60,
-	                "instructions": "Hold a plank position, engaging the core muscles to build stability essential for aerial maneuvers."
-	            },
-	            {
-	                "id": "fa3",
-	                "name": "Single-Leg Hops",
-	                "duration": 30,
-	                "instructions": "Execute hops on one leg to develop balance and explosive power, alternating legs after each set."
-	            },
-	            {
-	                "id": "fa4",
-	                "name": "Bridge Holds",
-	                "duration": 45,
-	                "instructions": "Maintain a bridge position to improve back flexibility and shoulder strength, crucial for the front aerial's arch."
-	            },
-	            {
-	                "id": "fa5",
-	                "name": "Rest and Recovery",
-	                "duration": 30,
-	                "instructions": "Take a moment to rest, hydrate, and prepare for the next set of exercises."
-	            }
-	        ]
-	    },
-	    "media": {
-	        "id": "fc8a9c21-0472-4c0f-bd87-2c9c12b59344",
-	        "demo": "",
-	        "demo3D": "",
-	        "tutorials": [
+        },
+        "category": "running",
+        "skillsNeededToDoThis": [
+            "Cartwheel",
+            "Roundoff",
+            "Handstand",
+            "Power Hurdle"
+        ]
+    },
+    {
+        "id": "a1b2c3d4-e5f6-7890-abcd-1234567890ab",
+        "name": "Front Aerial",
+        "description": "The front aerial is an advanced acrobatic skill where the gymnast performs a forward rotation without hand support, maintaining a split position throughout the motion. It requires significant leg strength, flexibility, and precise timing to execute successfully.",
+        "shapeTip": "Begin with a strong lunge, driving the back leg upward while pushing off the front leg. Maintain a tight core and extended split position in the air, ensuring a controlled landing with arms by your ears.",
+        "level": "Level 4",
+        "linkedWorkoutSkill": {
+            "id": "workout_front_aerial_001",
+            "name": "Front Aerial",
+            "movements": [
+                {
+                    "id": "fa1",
+                    "name": "Split Jumps",
+                    "duration": 45,
+                    "instructions": "Perform dynamic split jumps to enhance leg flexibility and strength. Focus on achieving maximum split and controlled landings."
+                },
+                {
+                    "id": "fa2",
+                    "name": "Core Stability Planks",
+                    "duration": 60,
+                    "instructions": "Hold a plank position, engaging the core muscles to build stability essential for aerial maneuvers."
+                },
+                {
+                    "id": "fa3",
+                    "name": "Single-Leg Hops",
+                    "duration": 30,
+                    "instructions": "Execute hops on one leg to develop balance and explosive power, alternating legs after each set."
+                },
+                {
+                    "id": "fa4",
+                    "name": "Bridge Holds",
+                    "duration": 45,
+                    "instructions": "Maintain a bridge position to improve back flexibility and shoulder strength, crucial for the front aerial's arch."
+                },
+                {
+                    "id": "fa5",
+                    "name": "Rest and Recovery",
+                    "duration": 30,
+                    "instructions": "Take a moment to rest, hydrate, and prepare for the next set of exercises."
+                }
+            ]
+        },
+        "media": {
+            "id": "fc8a9c21-0472-4c0f-bd87-2c9c12b59344",
+            "demo": "",
+            "demo3D": "",
+            "tutorials": [
                 {
                     "id": "1FA",
                     "title": "Front Aerial Tip",
@@ -616,9 +1017,15 @@
                     "url": "https://www.youtube.com/shorts/Pf2y7eO6s2c"
                 }
             ]
-	    },
-	    "category": "running"
-	},
+        },
+        "category": "running",
+        "skillsNeededToDoThis": [
+            "Cartwheel",
+            "Front Walkover",
+            "Handstand",
+            "Power Hurdle"
+        ]
+    },
     {
         "id": "f23e63f9-2a92-4e13-bc40-15fc6d6fe0be",
         "name": "Valdez",
@@ -678,14 +1085,20 @@
                 }
             ]
         },
-        "category": "standing"
+        "category": "standing",
+        "skillsNeededToDoThis": [
+            "Bridge",
+            "Bridge Kickover",
+            "Backbend",
+            "Shoulder Flexibility"
+        ]
     },
     {
         "id": "4b322652-c126-41f4-98e5-6c57f2d101b7",
         "name": "Standing Back Handspring",
         "description": "A fast, dynamic skill involving a backward jump into a handstand position followed by a quick snap down to the feet. It demands timing, power, and upper body strength.",
-        "shapeTip": "Sit back like you\u2019re sitting in a chair, arms tight by ears. Jump backward with speed and commit fully. Keep the body tight and snap the legs down fast to land on the feet.",
-        "level": "Level 3",
+        "shapeTip": "Sit back like you’re sitting in a chair, arms tight by ears. Jump backward with speed and commit fully. Keep the body tight and snap the legs down fast to land on the feet.",
+        "level": "Level 2",
         "linkedWorkoutSkill": {
             "id": "workout_standing_back_handspring_001",
             "name": "Standing Back Handspring",
@@ -737,21 +1150,28 @@
                     "title": "Back Handsprings Tips and Drills featuring Coach Mary Lee Tracy",
                     "url": "https://www.youtube.com/watch?v=EqmeReNzpFo"
                 },
-				{
+                {
                     "id": "3SBHS",
                     "title": "Motion By Mason, back handspring",
                     "url": "https://www.facebook.com/reel/881400748097288/"
                 }
             ]
         },
-        "category": "standing"
+        "category": "standing",
+        "skillsNeededToDoThis": [
+            "Bridge",
+            "Bridge Kickover",
+            "Handstand",
+            "Snap Down",
+            "Rebound"
+        ]
     },
     {
         "id": "f95f023e-7f58-4c07-87d0-1b8b1c7e2a00",
         "name": "Front Handspring",
         "description": "The front handspring is a forward-traveling tumbling skill that involves a quick transition from a handstand through to the feet using leg drive and shoulder push. It builds dynamic power, coordination, and front-to-back momentum transfer essential for advanced tumbling passes.",
         "shapeTip": "Start in a strong lunge. Kick into a tight handstand with arms locked and body straight. Push hard through the shoulders as your legs pass over, finishing in a controlled rebound with hips extended and arms by ears.",
-        "level": "Level 3",
+        "level": "Level 2",
         "linkedWorkoutSkill": {
             "id": "workout_front_handspring_001",
             "name": "Front Handspring",
@@ -805,14 +1225,20 @@
                 }
             ]
         },
-        "category": "running"
+        "category": "running",
+        "skillsNeededToDoThis": [
+            "Handstand Forward Roll",
+            "Front Walkover",
+            "Snap Down",
+            "Rebound"
+        ]
     },
     {
         "id": "6289f9a0-0c2f-4981-842f-03691a76d7ff",
         "name": "Roundoff Back Handspring",
         "description": "A connected pass combining the explosive power of a roundoff with the dynamic motion of a back handspring. It's a foundation for advanced tumbling series.",
         "shapeTip": "Execute a strong roundoff with a deep snap-down and fast arm swing. Transition immediately into a back handspring, keeping the chest open and arms by the ears.",
-        "level": "Level 3",
+        "level": "Level 2",
         "linkedWorkoutSkill": {
             "id": "workout_roundoff_back_handspring_001",
             "name": "Roundoff Back Handspring",
@@ -876,14 +1302,20 @@
                 }
             ]
         },
-        "category": "running"
+        "category": "running",
+        "skillsNeededToDoThis": [
+            "Roundoff",
+            "Standing Back Handspring",
+            "Snap Down",
+            "Rebound"
+        ]
     },
     {
         "id": "27bc5594-3a57-44df-a5a5-3fa7997d0989",
         "name": "Whip",
-        "description": "A whip is a fast, low back handspring without arm support that travels horizontally. It requires a tight arch-to-hollow snap, strong core control, and dynamic speed through the legs and torso. The skill builds momentum in tumbling passes while demanding excellent body awareness.",
+        "description": "A whip is a fast, low, non-twisting backward tumbling skill that travels horizontally without hand support. It uses a tight arch-to-hollow snap, strong core control, and rapid backward travel similar to the rhythm of a back handspring. The skill builds momentum in tumbling passes while demanding excellent body awareness.",
         "shapeTip": "Start with a strong rebound and lift through your chest. Keep your arms by your sides and legs completely straight. Snap through a tight arch and quickly hollow out before landing, maintaining a straight, fast line throughout the motion.",
-        "level": "Level 5",
+        "level": "Level 4",
         "linkedWorkoutSkill": {
             "id": "workout_whip_001",
             "name": "Whip",
@@ -932,7 +1364,13 @@
                 }
             ]
         },
-        "category": "running"
+        "category": "running",
+        "skillsNeededToDoThis": [
+            "Roundoff Back Handspring",
+            "Back Handspring Series",
+            "Layout Set",
+            "Rebound"
+        ]
     },
     {
         "id": "6d0fcbd5-9808-4de1-b944-75140dd33cc7",
@@ -1003,14 +1441,20 @@
                 }
             ]
         },
-        "category": "standing"
+        "category": "standing",
+        "skillsNeededToDoThis": [
+            "Standing Back Handspring",
+            "Standing Back Handspring Series",
+            "Rebound",
+            "Tuck Jump"
+        ]
     },
     {
         "id": "4dc55a89-7c0e-403f-bdf4-80e0e3f9d02c",
         "name": "Standing Front Tuck",
         "description": "The standing front tuck is a front flip performed from a standing position, requiring explosive power and tight shape. It teaches vertical lift, body awareness, and landing control without the assistance of forward momentum.",
         "shapeTip": "Stand with feet together, arms by your sides. Swing arms up quickly and jump straight up, not forward. Pull knees to chest tightly at the top, stay rounded in the tuck, and prepare for a soft, balanced landing.",
-        "level": "Level 4",
+        "level": "Level 5",
         "linkedWorkoutSkill": {
             "id": "workout_standing_front_tuck_001",
             "name": "Standing Front Tuck",
@@ -1059,14 +1503,20 @@
                 }
             ]
         },
-        "category": "standing"
+        "category": "standing",
+        "skillsNeededToDoThis": [
+            "Punch Set",
+            "Rebound",
+            "Tuck Jump",
+            "Front Tumbling Entry Drills"
+        ]
     },
     {
         "id": "7a8939a7-4f6a-4f48-87c4-19e10a9d1c50",
         "name": "2 Step Punch Front",
         "description": "The 2 Step Punch Front is a tumbling skill that uses a short running start and punch to generate momentum for a front tuck. It helps athletes learn to transfer forward speed into vertical lift while maintaining body control and tight shape in the air.",
         "shapeTip": "Take two strong steps forward and punch off both feet at the same time. Swing arms up, drive through the toes, and keep the chest lifted. Tuck tightly at the top of the jump and prepare to land softly with knees slightly bent.",
-        "level": "Level 4",
+        "level": "Level 3",
         "linkedWorkoutSkill": {
             "id": "workout_2_step_punch_front_001",
             "name": "2 Step Punch Front",
@@ -1125,14 +1575,20 @@
                 }
             ]
         },
-        "category": "running"
+        "category": "running",
+        "skillsNeededToDoThis": [
+            "Front Handspring",
+            "Snap Down",
+            "Rebound",
+            "Punch Set"
+        ]
     },
     {
         "id": "b0a2ff1d-f02f-4123-9c50-f47ea226a462",
         "name": "Roundoff Back Handspring Back Tuck",
         "description": "A connected tumbling sequence finishing with a back tuck, combining speed and height from the preceding skills to complete the flip.",
         "shapeTip": "Use momentum from the BHS, drive arms up into a tight tuck. Rotate quickly and prepare for a soft, centered landing.",
-        "level": "Level 4",
+        "level": "Level 3",
         "linkedWorkoutSkill": {
             "id": "workout_roundoff_back_handspring_back_tuck_001",
             "name": "Roundoff Back Handspring Back Tuck",
@@ -1191,14 +1647,20 @@
                 }
             ]
         },
-        "category": "running"
+        "category": "running",
+        "skillsNeededToDoThis": [
+            "Roundoff Back Handspring",
+            "Standing Back Tuck",
+            "Back Handspring Series",
+            "Rebound"
+        ]
     },
     {
         "id": "9a602809-c646-4a41-b1b3-db09f203f6f9",
         "name": "Roundoff Back Handspring Layout",
         "description": "This combination pass uses a roundoff and back handspring to generate power for a layout flip, maintaining a straight body line throughout the rotation.",
         "shapeTip": "Set vertically from the handspring, keeping arms tight. Hold a hollow position throughout the layout and maintain full body control until landing.",
-        "level": "Level 5",
+        "level": "Level 4",
         "linkedWorkoutSkill": {
             "id": "workout_roundoff_back_handspring_layout_001",
             "name": "Roundoff Back Handspring Layout",
@@ -1262,14 +1724,20 @@
                 }
             ]
         },
-        "category": "running"
+        "category": "running",
+        "skillsNeededToDoThis": [
+            "Roundoff Back Handspring",
+            "Standing Back Tuck",
+            "Whip",
+            "Layout Set"
+        ]
     },
     {
         "id": "970cb40d-1469-4a26-a6ed-73dfd5b45bdb",
         "name": "Roundoff Back Handspring Full",
         "description": "This tumbling pass begins with a roundoff and back handspring to build momentum, finishing with a layout that includes a full 360-degree twist. It requires strong technique and spatial awareness to execute safely and cleanly.",
         "shapeTip": "Push through the roundoff and snap down in the back handspring to generate power. Set tall from the handspring, initiate the twist using shoulder and hip drive, and maintain a tight, extended body line through the full rotation.",
-        "level": "Level 6",
+        "level": "Level 5",
         "linkedWorkoutSkill": {
             "id": "workout_roundoff_back_handspring_full_001",
             "name": "Roundoff Back Handspring Full",
@@ -1333,7 +1801,13 @@
                 }
             ]
         },
-        "category": "running"
+        "category": "running",
+        "skillsNeededToDoThis": [
+            "Roundoff Back Handspring Layout",
+            "Twisting Drill Progressions",
+            "Whip",
+            "Air Awareness"
+        ]
     },
     {
         "id": "896da4f0-8913-4daf-9378-2a18edf5b199",
@@ -1395,18 +1869,24 @@
                 {
                     "id": "3SBF",
                     "title": "STANDING FULL DRILLS!",
-                    "url": "hhttps://www.youtube.com/shorts/aQfTMqlvbbo"
+                    "url": "https://www.youtube.com/shorts/aQfTMqlvbbo"
                 }
             ]
         },
-        "category": "standing"
+        "category": "standing",
+        "skillsNeededToDoThis": [
+            "Standing Back Tuck",
+            "Standing Layout",
+            "Twisting Drill Progressions",
+            "Strong Set"
+        ]
     },
     {
         "id": "89d70dd8-0c3c-497e-bedb-a05d438f2588",
         "name": "Roundoff Back Handspring Double Full",
         "description": "A high-level tumbling pass that links a roundoff and back handspring into a double full twist, maximizing momentum and airtime.",
         "shapeTip": "Snap the BHS tight, set tall, and immediately initiate two fast twists. Stay hollow and controlled through the spin, landing cleanly.",
-        "level": "Level 7",
+        "level": "Level 6",
         "linkedWorkoutSkill": {
             "id": "workout_roundoff_back_handspring_double_full_001",
             "name": "Roundoff Back Handspring Double Full",
@@ -1460,6 +1940,12 @@
                 }
             ]
         },
-        "category": "running"
+        "category": "running",
+        "skillsNeededToDoThis": [
+            "Roundoff Back Handspring Full",
+            "Roundoff Back Handspring Layout",
+            "Whip",
+            "Advanced Twisting Control"
+        ]
     }
 ]
